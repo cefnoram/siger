@@ -15,7 +15,7 @@ Table of Contents
     sop-02.rst
     sop-03.rst
     sop-04.rst
-   
+    sop-05.rst   
 .. blank line 
 
 
