@@ -43,12 +43,12 @@ extensions = [
 templates_path = ['_templates']
 
 #todo
-[extensions]
-todo_include_todos=True
+#[extensions]
+#todo_include_todos=True
 
 #my css
-def setup(app):
-    app.add_stylesheet('my_style.css')
+#def setup(app):
+ #   app.add_stylesheet('my_style.css')
 
 # The suffix of source filenames.
 source_suffix = '.rst'
@@ -112,7 +112,7 @@ pygments_style = 'sphinx'
 
 
 #toc add conf.py
-extensions=['sphinxcontrib.fulltoc']
+#extensions=['sphinxcontrib.fulltoc']
 
 
 # -- Options for HTML output ----------------------------------------------
@@ -121,11 +121,11 @@ extensions=['sphinxcontrib.fulltoc']
 # a list of builtin themes.
 #:html_theme = 'sphinxdoc'
 
-import sphinx_rtd_theme
+#import sphinx_rtd_theme
 
-html_theme = "sphinx_rtd_theme"
+#html_theme = "sphinx_rtd_theme"
 
-html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+#html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 # further.  For a list of options available for each theme, see the
 # documentation.
 #html_theme_options = {"roottarget": "index"}
@@ -142,7 +142,7 @@ html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo = '_static/logo.jpg'
+#html_logo = '_static/logo.jpg'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
