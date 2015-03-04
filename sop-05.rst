@@ -6,7 +6,7 @@
 ======================
 G002-Create an Invoice  
 ======================
-.. |date| date::
+.. date::
 
 .. cssclass:: table-bordered
 
@@ -14,11 +14,11 @@ G002-Create an Invoice
 | Ducument ID            | Release    | Author   | Version  |
 |                        | Date       |          |          |
 +========================+============+==========+==========+
-| G002-Create an Invoice | 30/1/2015  | Corbin   | v 1.0    | 
+| G002-Create an Invoice | 12/12/2014 | Corbin   | v 2.0    | 
 |                        |            | Fletcher |          |  
 +------------------------+------------+----------+----------+
 
-.. versionadded:: 1.0.1, Content added 21/2/2015
+.. versionadded:: 2.0, Content added 30/1/2015
 
 Introduction
 -------------
@@ -27,36 +27,53 @@ The invoices from the previous business day must be filled on the next available
 
 Processes
 ---------
-#. In this initial step you will use a manila envelope and cut it in two parts (horizontally or long ways). Now that the manila folder is in two sections, you will label the top portion with the appropriate month and year. 
+#. From QuickBooks chose invoice template from top of the page. 
 
-#. You will use a two whole punch to make holes in the top two inch section of the manila envelope.  
+#. On the Home page, click the Create new Invoices icon.
+   
+# . Click the Customer:Job drop-down arrow and select a customer from the list. If customer is not in list chose "B-CASH" from the drop down list. 
 
-#. Next, you will insert a Prestong prong paper fasteners into the wholes of the bottom part. As you file the invoices, you will use the two whole punch to make two holes in each invoices/work order/purchase order and attach each face up to the prong paper fastener.    
+#. Be sure the date and other information is correct.
 
-#. At the end of the month you will attach the top portion of the manila folder (month and year facing up, readable) to the Prestong prong paper fasteners, and fold the fasteners flat, securing the stack together. 
+#. Click the first line in the Item column. Then start typing the name of the item (e.g., power supply). A list of items will appear and chose the correct item for your invoice. 
 
-Scope
------
-Anyone who is working at the front desk will be responsible for one or all parts of this business process. It is important to read and understand the steps involved in this business process prior to undertaking this task.
+#. Click the drop-down arrow and select an item. Can be physical item in inventory or labor. 
 
+#. Enter the quantity of the item
+                                             
+#.  (Optional) Change the description and price of each item if necessary.
 
+#. (Optional) Enter (Select) a customer message.
+
+#. (Optional) To print or email the invoice later, click the To be printed or To be emailed checkbox.
+                                                                                                                                            
+#. Select proper tax liability for customer, e.g., GST.  
+   
+#. Review your work prior to saving the invoice
+
+#. In the lower left corner of the Quickbooks invoice window is the customer message drop down menu. You should always chose the last message in the list. 
+    
+#. In the memo field – also lower left – you should enter your initials in the box; however, if you are creating an invoice for a work order with Completed to be invoiced status you are required to enter the initials of the technician who performed the service.
+
+#. If you have more invoices to enter, click Save & New. Otherwise, click Save & Close.
+
+#. (Optional) If you chose to print the invoice later, choose File=>Print Forms=>Invoices when you're ready to print. If you chose to email the invoice later, choose File=>Send Forms when you're ready to send it.
+                                                                                                                                                                                                                                                                                                                                                                                                                                      
 Definitions
 -----------
-*A Work Order*: 
-    Is generated for all customers requesting customer primes work, repair(s), or service. 
-*Purchase Order*: 
-    Are created for commercial clients. These commercial clients are required to present the Purchase Order at the time they pay their bill. Consequently, you will retain the Purchase Order and file it with the invoice on the next business day. 
-*Quickbooks Invoice*: 
-    Is created for all work or service and all purchases at or retail location. You will have to make a note of your work or number. 
-.. seealso::
-    See **SOP G002-Invoice** on detailed information on the proper procedures for creating a Quickbooks invoice.  
-*Credit Memo*: 
-    Is generated by management for varying reasons, but one reason might be if SigerTronic Systems needs new ink for our printer. A Credit Memo would be created for this transaction. Credit memos will have a work order number but the will return an error message when running Quickbooks search (Quickbooks=>Edit=>Search) for the specific work order number. Credit memos are processed at the end of the month; therefore, a credit memo will be missing in the filing process. A gap (not consecutive numbers) in your invoice numbers will be created. It is best practice to label the location in the stack of invoice with a sticky note as a reminder that you have to print the credit memo before the task is complete.  
+*Tech-pricing*: 
+    is a term used to state that an individual is receiving a discount on items purchased in our retail store location. The types of individuals who are available for our Tech-pricing discount vary, but a short list is, SigerTronic Systems technicians/employees, schools, students, etc.  If you have questions regarding who is eligible or not eligible for tech-pricing see management prior to granting tech-pricing.
+
+*Master price list*: 
+    Is a list of all stock items in our inventory. The master price list provides information such as detailed item description, cost before tax, cost after tax, and actual tech-pricing cost.  
 
 Addational Information
 ----------------------
-* All SigerTronics Systems invoices are numbered consecutively, and throughout this process of filing the invoices, your quality check is that a complete range of invoices numbers’ (from #xxyy to xxxx) are filed. If there is a missing invoice number, for example you just filed invoice # 6345 and the next invoice to be filed is #6347, you can deduce that you must search Quickbooks for the missing invoice # 6346. It is common to have a gap in your invoice numbers while filing. One example of a missing invoice number is a “Credit Memo”. 
-* Invoices with a work order number associated must have copy of the physical work order attached when filing the invoice. Additionally, some corporate customers will provide Purchase Orders when paying their bill. You will need to file the Purchase Order (or work order) with the invoice. Note: When service or repair of customer equipment is complete, you should print the invoice and place it on the physical machine. This is in preparation for the customer arrival to pay for their service and expedites the checkout process.  
-* When printing invoices, any invoice four lines or less will print on half page logo paper, and five lines or more need to be printed on a full page log paper. To change this setting, in the main Quickbooks invoice window, click in the “Template” drop down box=>chose “Half page” or “Logo Invoice”, logo invoice is the full page option. 
+* If you need to delete an item from your open invoice, select the line item with your mouse pointer, and right click, then chose delete from the drop down box.
 
+* Be sure to verify your work is absolutely correct prior to saving the invoice.  Once you have saved the invoice you cannot make any changes.
+
+* Customers receiving "Tech-pricing" (e.g., SigerTronic Systems technicians, schools, students, etc.), you must first check the master price list, and then adjust the value in the rate column appropriately for the item being sold. 
+
+* There are two ways to create an invoice from a QuickBooks sales order, first by starting from an existing sales order, and second by starting with a new (blank) invoice. If you want to create an invoice for more than one sales order, you have to start with a new invoice.
 
