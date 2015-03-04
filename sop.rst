@@ -22,13 +22,11 @@ G016--Collect Payment on Open Invoice
 
 .. versionchanged:: 1.0.1 Fundamental changes made to the structure of the document. 
 
-
+.. note:: The above is an example of some version control that can be added to each SOP. 
 
 Introduction
 ############
 This SOP will provide details needed for any team member to query our Quickbooks database and use an open invoice report to inquire with each customer who has an unpaid invoice. In some situations we will provide customers thirty day terms to satisfy their invoice; however, if thirty days passes, and we have not yet received payment, we will begin calling customers and requesting payment in full. 
-
-.. todo:: A todo note can be used like this. It can highlight text and explain work that needs to be done at a later date.  
 
 Procsses
 #########
@@ -59,11 +57,9 @@ Example Table
 +------------+------------+-----------+
 
 
-
-
 Responsible Personnel
 #####################
-Any team member who is responsible for invoicing customers could be required to seek payment on unpaid invoices. This process is primarily the responsibility of one of our sales floor team members. [#f1]_ 
+Any team member who is responsible for invoicing customers could be required to seek payment on unpaid invoices. This process is primarily the responsibility of one of our sales floor team members.
 
 .. sidebar:: Team Members 
    

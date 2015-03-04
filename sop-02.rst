@@ -52,10 +52,6 @@ Processes
 .. tip:: 
     You can use the note section of the COB sheet to state facts such as why you are short twenty dollars.
 
-Example Table
-**************
-
-
 Scope
 #####
 All service that is requested by customers must have a work order created. This SOP provides employees, who are not familiar with the process, the information need to complete this task. For additional detailed information see SOP T001-Work Order Work Flow in Track-it.   

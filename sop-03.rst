@@ -19,7 +19,7 @@ G010-Receive Inventory Items
 
 .. versionadded:: 1.0.1, Content added 21/2/2015
 
-.. tip:: This table is an example and it can be structured as needed for each SOP. 
+.. tip:: This table is an example and it can be structured as needed for each SOP. Version control is a requirement and it is part of or SOP template; therefore, I have added it here.  
 
 Introduction
 ############

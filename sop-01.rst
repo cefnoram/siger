@@ -46,7 +46,7 @@ Processes
 
 #. Populate the Summary filed with a short but accurate description of the work to be performed;
 
-#. The Note field is where you added a detailed account of the services being requested. If the customer has delivered his/her laptop, the lap top’s charger, and laptop sleeve, you are required to list all these items in the Notes field. You must be detailed, specific, and complete when writing your note. While populating the Notes field you must provide sufficient detailed information and there is no room for vagueness or ambiguity in your description.
+#. The **Note** field is where you added a detailed account of the services being requested. If the customer has delivered his/her laptop, the lap top’s charger, and laptop sleeve, you are required to list all these items in the Notes field. You must be detailed, specific, and complete when writing your note. While populating the Notes field you must provide sufficient detailed information and there is no room for vagueness or ambiguity in your description.
 
 
 #. Click the **Add Note** button;
@@ -76,7 +76,7 @@ Any team member who is responsible for invoicing customers could be required to 
 Required Fields
 ###############
 
-.. todo::
+.. note::
    I need to add a table which show the specific required fields used when creating a work order. 
 
 Definitions
