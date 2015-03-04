@@ -90,19 +90,4 @@ Addational Information
 
     * An example of “documenting your findings”-- you could create a Microsoft Excel spread sheet and articulate the details (i.e., customer name, invoice number, etc. ) of each customer you call. Our primary concern is, when we can reasonably expect payment from the customer? And the payment status must be included in your documentation.   
 
-Glossary
-########
-.. glossary::
-   
- environment
-   A structure where information about all documents under the root is saved, and used for cross-referencing. The environment is pickled after the parsing stage, so that successive runs only need to read and parse new and changed documents.
-
- source directory
-  The directory which, including its subdirectories, contains all source files for one Sphinx project.
-
-.. rubric:: Footnotes
-
-.. [#f1] Text of the first example footnote.
-
-
 
