@@ -94,15 +94,13 @@ Risk
 ****
 All risk should be listed to include the risk level (i.e. low, medium, high) as well as risk mitigation for each identified risk.
 
-.. toc::
-   :hide:
 
-#################
+
+
 Decision Process 
 #################
 
-.. toc::
-   :hide:
+
 
 ************
 Presentation
@@ -114,7 +112,7 @@ Discussion
 **********
 During the discussion date, the Project Sponsor will verbally present the initiative to all decision makers. Project Champions or other stakeholders may be included as was decided in 1.1 above. Questions and requests for clarifications (RFCs) may be submitted. Follow up discussions may be scheduled as deemed necessary to address questions and RFC, i.e. if not resolved in writing.
 
-########
+
 Decision
 ########
 
