@@ -9,6 +9,8 @@ Table of Contents
 *****************
 General SOPs
 -----------
+General SOPs
+
 .. toctree::
     :numbered:
           
@@ -27,6 +29,7 @@ Managment SOPs
 
     sop-06.rst
     sop-07.rst
+    sop-08.rst
 
 Technical SOPs 
 --------------

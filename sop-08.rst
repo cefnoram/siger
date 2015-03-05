@@ -3,9 +3,9 @@
    :width: 300px     
    :scale: 70 %
    :align: center
-================================
-G012-Completed to be Invoiced  
-================================
+========================
+G005-Prepare an Estimate 
+========================
 .. date::
 
 .. cssclass:: table-bordered
@@ -14,49 +14,54 @@ G012-Completed to be Invoiced
 | Ducument ID            | Release    | Author   | Version  |
 |                        | Date       |          |          |
 +========================+============+==========+==========+
-| G012-Completed to be   | 02/02/2015 | Corbin   | v 1.0    | 
-| Invoiced               |            | Fletcher |          | 
+| G005-Prepare an        | 01/07/2015 | Corbin   | v 1.0    | 
+| Estimate               |            | Fletcher |          | 
 |                        |            |          |          |  
 +------------------------+------------+----------+----------+
 
 Introduction
 -------------
-A TrackIt work order goes through many status changes from initial creation until full completion. Once the work order status has been changed to Completed to be invoiced there are additional steps that need to be performed. We need to notify the customer that their machine is finished so we can collect payment. You are required to create a Quickbooks invoice which will detail the level of service provided and the amount of money due.
+A QuickBooks estimate provides potential customers a quote for product and/or services we have to offer. An estimate keeps a record of the price, items, and services.
 
 Processes
 ---------
-#. From TrackIt main window, click Current View button=>Public View=>Completed to be invoiced. This provides you with all TrackIt Work Orders with the completed to be invoiced work status.
+#. Quickbooks main window, choose Customer from the main tool bar;
 
-#. Next, from the main TrackIt work order window, click on the Resolution Tab. The Resolution Tab is where the technician will articulate the full scope of service preformed.
+#. Next choose Create Estimate (see Figure 1). This provides you a blank estimate;
 
-#. Next open Quickbooks and create new invoice. If you need additional detailed information on the proper steps for creating a Quickbooks invoice see SOP G002 Create an Invoice.
+#. Next from Customer:Job drop down list, choose customer, or chose B Cash if customer is not available in the list provided. If you chose B Cash, and you are preparing an estimate for a walk-in or call-in customer, you must manually enter the customer’s personal information—in the Name/Address Box.
 
-#. In the Item column click in the blank field then begin typing labor, and chose labor from the list. Labor is always the first work order entry.
+#. Left mouse click in the first field in the Item column and begin typing the name of the item, then choose the item(s) required for your estimate. Change quantity for each item as needed;
 
-   a. Next, the Resolution Tab will provide you with all the details about the amount of labor hours that were required to complete the repair and/or service we provided. You will add the total number of labor hours from the TrackIt work order resolution tab to the Quickbooks invoice quantity column. So, if the technician states two hours of labor were required to complete this job, you will add “2” to the invoice quantity column.
+   a. We have the ability to order items that we do not keep available in stock. In this situation, you must choose Misc (miscellaneous) from the list of items, and manually added the details of each item.   
 
-   b. Next you will write in past tense (we have already done the work), the labor description from the resolution tab of the TrackIt window, to the description column of your Quickbooks invoice. Your abbreviated description to the Quickbooks invoice should be a shorter and more concise version of the technicians’ description from the TrackIt work order/resolution tab.
+#. Some customer receive Tech Pricing. And the price for each item will need to be adjusted according to the master price list;
 
-   c. The last line in the labor description is required to state, “Diagnosed Dell Inspiron N14430 [specific name of machine] tested and verified working.”
+#. Be sure to check your work before moving to the next step;
 
-#. Click in the Item column and add other relative items (e.g., hardware, software, anything that was replaced, etc.) to complete the work order.
+#. Click save and close, save and print, or email, to complete the estimate.
 
-#. Verify your work is accurate and complete. Click Save and Exit.
-
-#. Re-open the work order and added the Quickbooks Invoice number to the notes section.
-
+.. figure:: image/estimate-01.jpg
+   :height: 400px
+   :width: 500px     
+   :scale: 90 %
+   :alt: Figure 1
+   :align: center
+   
 Responsible Personnel
 ---------------------
-This SOP should be read an understood fully by any SigerTronic Systems employee who is not familiar with creating TrackIt work orders or creating new Quickbooks Invoices. Before undertaking this task, anyone who does not have prior experience, should follow the process provided here.
+This SOP is intended to be used by employees who must prepare an estimate and are not familiar with the procedures.
 
 Definitions
 -----------
-*Resolution Tab*: 
-    From the TrakIt main work order window you will notice a tab titled Resolution. The information contained on the resolution tab is crucial to this task.
+*Tech-pricing*: 
+    is a term used to state that an individual is receiving a discount on items purchased in our retail store. The types of individuals who are available for our Tech-pricing discount vary, but a short list is, SigerTronic Systems technicians, schools, students, etc. If you have questions regarding who is eligible for tech-pricing see management prior to granting some tech-pricing.
+
+*Master price list*: 
+    Is a list of all stock items in our inventory. The master price list provides information such as detailed item description, cost before tax, cost after tax, and actual tech-pricing cost.
 
 Additional Information
 ----------------------
-* If hardware was replaced during the service the technician articulates this fact in the Resolution tab of the TrackIt work order.
-
-* Otherwise noted this SOP is expecting employees, who are not familiar with creating a Quickbooks invoice, to refer to SOP titled G002 create an invoice for detailed instruction.
+.. note::
+   An estimate can also be prepared with Microsoft Excel; however, that information is out of the scope of this SOP.
 
