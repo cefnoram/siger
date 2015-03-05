@@ -20,6 +20,10 @@ General SOPs
     sop-03.rst
     sop-04.rst
     sop-05.rst   
+    sop-06.rst
+    sop-07.rst
+    sop-08.rst
+
 .. blank line 
 
 Managment SOPs
@@ -27,9 +31,7 @@ Managment SOPs
 .. toctree::
     :numbered:
 
-    sop-06.rst
-    sop-07.rst
-    sop-08.rst
+     sop-09.rst
 
 Technical SOPs 
 --------------
