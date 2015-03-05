@@ -114,7 +114,7 @@ Project Sponsor should present a project charter to all decision makers. If deem
 
 Discussion
 ==========
-During the discussion date, the Project Sponsor will verbally present the initiative to all decision makers. Project Champions or other stakeholders may be included as was decided in 1.1 above. Questions and requests for clarifications (RFCs) may be submitted. Follow up discussions may be scheduled as deemed necessary to address questions and RFC, i.e. if not resolved in writing.
+During the discussion date, the Project Sponsor will verbally present the initiative to all decision makers. Project Champions or other stakeholders may be included as was decided in section 1.11.1 above. Questions and requests for clarifications (RFCs) may be submitted. Follow up discussions may be scheduled as deemed necessary to address questions and RFC, i.e. if not resolved in writing.
 
 *********
 Decision
