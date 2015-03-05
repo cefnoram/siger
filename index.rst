@@ -7,13 +7,20 @@ Welcome to SigerTronic SOP Documentation!
 ==========================================
 Table of Contents
 *****************
-General SOPs
------------
+Introduction
+-------------
 
 .. toctree::
     :numbered:
           
     intro.rst
+
+General SOPs
+-------------
+
+.. toctree::
+    :numbered:
+    
     sop.rst
     sop-01.rst
     sop-02.rst
