@@ -24,3 +24,4 @@ New Section
     :numbered:
 
     sop-06.rst
+    sop-07.rst
