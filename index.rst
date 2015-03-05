@@ -31,6 +31,7 @@ Managment SOPs
     :numbered:
 
     sop-09.rst
+    test-01.rst
 
 Technical SOPs 
 --------------

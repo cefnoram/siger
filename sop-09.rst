@@ -47,26 +47,22 @@ Players
 -------
 
 Project Sponsor
-^^^^^^^^^^^^^^^^
+***************
 The Project Sponsor is the project owner.
 
 Project Champion
-^^^^^^^^^^^^^^^^
+****************
 The Project Champion is the project advocate. Depending on the size of the initiative, there may only be one Project Champion, i.e. the Project Sponsor.
 
 Stakeholders
-^^^^^^^^^^^^
-*Primary stakeholders* 
-    are the people or groups that stand to be directly affected, either positively or negatively. Primary stakeholders can be on both sides of the equation.
+""""""""""""
+Primary stakeholders are the people or groups that stand to be directly affected, either positively or negatively. Primary stakeholders can be on both sides of the equation.
 
-*Secondary stakeholders* 
-    are people or groups that are indirectly affected, either positively or negatively.
+Secondary stakeholders are people or groups that are indirectly affected, either positively or negatively.
 
-*Key stakeholders* 
-    are those who can have a positive or negative effect on an effort, or who are important within or to an organization, agency, or institution engaged in an effort.
+Key stakeholders are those who can have a positive or negative effect on an effort, or who are important within or to an organization, agency, or institution engaged in an effort.
 
-.. note::
-   Stakeholders are committed to an open process and not to a specific outcome. Stakeholders role include representing diverse opinions, branding the process as legitimate, and providing an audience for a reality check.
+Stakeholders are committed to an open process and not to a specific outcome. Stakeholders role include representing diverse opinions, branding the process as legitimate, and providing an audience for a reality check.
 
 Staff
 ^^^^^
@@ -78,7 +74,7 @@ Decision Makers have the ultimate decision on whether or not an incentive will m
 
 Timeline
 ---------
-In this section, present a timeline. At a minimum, it should include milestones. A *Gantt Chart* is preferred.
+In this section, present a timeline. At a minimum, it should include milestones. A Gantt Chart is preferred.
 
 Metrics
 -------
@@ -88,7 +84,7 @@ Risk
 ----
 All risk should be listed to include the risk level (i.e. low, medium, high) as well as risk mitigation for each identified risk.
 
-
+================
 Decision Process 
 ================
 
@@ -99,9 +95,9 @@ Project Sponsor should present a project charter to all decision makers. If deem
 
 Discussion
 ----------
-During the discussion date, the Project Sponsor will verbally present the initiative to all decision makers. Project Champions or other stakeholders may be included as was decided in 2.1 above. Questions and requests for clarifications (RFCs) may be submitted. Follow up discussions may be scheduled as deemed necessary to address questions and RFC, i.e. if not resolved in writing.
+During the discussion date, the Project Sponsor will verbally present the initiative to all decision makers. Project Champions or other stakeholders may be included as was decided in 1.1 above. Questions and requests for clarifications (RFCs) may be submitted. Follow up discussions may be scheduled as deemed necessary to address questions and RFC, i.e. if not resolved in writing.
 
-
+========
 Decision
 ========
 
