@@ -9,6 +9,8 @@ on how to complete a single business process.
 Project Documentation
 **********************
 
-This is a document outlining the full scope of this project: :download:`this PDF document <_downloads/sop-plan-09.pdf>`.
+* This is a document outlining the full scope of this project: :download:`this is a PDF document <_downloads/sop-plan-09.pdf>`.
 
-This is a presentation providing some detail into our  SOP Project 
+* This is a presentation providing some detail about our project::download:`this is a PDF document <_downloads/siger-sop-final.pdf>`.
+
+ 
