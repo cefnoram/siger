@@ -94,9 +94,15 @@ Risk
 ****
 All risk should be listed to include the risk level (i.e. low, medium, high) as well as risk mitigation for each identified risk.
 
+.. toc::
+   :hide:
+
 #################
 Decision Process 
 #################
+
+.. toc::
+   :hide:
 
 ************
 Presentation
