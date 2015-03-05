@@ -13,6 +13,7 @@ General SOPs
 .. toctree::
     :numbered:
           
+    intro.rst
     sop.rst
     sop-01.rst
     sop-02.rst

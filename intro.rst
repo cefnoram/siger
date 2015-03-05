@@ -1,0 +1,12 @@
+############
+Introduction 
+############
+
+This developed solution is intended to be a minimal working example of a standard operating procedures (SOPs) digital library. This will provide a more user friendly user interface for navigating the SOP library. Our SOPs are intended to function a set of written detailed instructions, or step – by – step instructions, 
+on how to complete a single business process.
+
+**********************
+Project Documentation
+**********************
+
+This is a document outline the fell scope of this project: :download:`this example script <docs/sop-plan-09.pdf>`.
