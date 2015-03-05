@@ -42,8 +42,8 @@ Processes
 #. Click save and close, save and print, or email, to complete the estimate.
 
 .. figure:: image/estimate-01.jpg
-   :height: 400px
-   :width: 500px     
+   :height: 450px
+   :width: 600px     
    :scale: 90 %
    :alt: Figure 1
    :align: center
