@@ -63,13 +63,17 @@ The Project Champion is the project advocate. Depending on the size of the initi
 
 Stakeholders
 ============
-Primary stakeholders are the people or groups that stand to be directly affected, either positively or negatively. Primary stakeholders can be on both sides of the equation.
+*Primary stakeholders* 
+    are the people or groups that stand to be directly affected, either positively or negatively. Primary stakeholders can be on both sides of the equation.
 
-Secondary stakeholders are people or groups that are indirectly affected, either positively or negatively.
+*Secondary stakeholders* 
+    are people or groups that are indirectly affected, either positively or negatively.
 
-Key stakeholders are those who can have a positive or negative effect on an effort, or who are important within or to an organization, agency, or institution engaged in an effort.
+*Key stakeholders* 
+    are those who can have a positive or negative effect on an effort, or who are important within or to an organization, agency, or institution engaged in an effort.
 
-Stakeholders are committed to an open process and not to a specific outcome. Stakeholders role include representing diverse opinions, branding the process as legitimate, and providing an audience for a reality check.
+.. note::
+    Stakeholders are committed to an open process and not to a specific outcome. Stakeholders role include representing diverse opinions, branding the process as legitimate, and providing an audience for a reality check.
 
 Staff
 =====
@@ -96,34 +100,34 @@ All risk should be listed to include the risk level (i.e. low, medium, high) as 
 
 
 
-
+****************
 Decision Process 
-#################
+****************
 
 
 
-************
+
 Presentation
-************
+============
 Project Sponsor should present a project charter to all decision makers. If deemed necessary, project sponsor may present charter to other stakeholders to solicit buy-in. Project Sponsor may have as many Project Champions as necessary. Upon presentation of proposal, decision makers will mutually decide on a discussion and decision date.
 
-**********
+
 Discussion
-**********
+==========
 During the discussion date, the Project Sponsor will verbally present the initiative to all decision makers. Project Champions or other stakeholders may be included as was decided in 1.1 above. Questions and requests for clarifications (RFCs) may be submitted. Follow up discussions may be scheduled as deemed necessary to address questions and RFC, i.e. if not resolved in writing.
 
-
+*********
 Decision
-########
+*********
 
-***
+
 Yah
-***
+===
 A majority vote in vote of the incentive would require that the Project Sponsor submit a detailed project plan. This project plan should be a modification of the original Project Charter.
 
-***
+
 Nah
-***
+===
 In a majority vote opposes the incentive, it would be archived until the/a Project Sponsor deems it fit to re-propose the incentive.
 
 
