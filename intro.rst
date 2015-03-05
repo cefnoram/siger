@@ -1,9 +1,9 @@
 ###########################
 Brief Project Introduction 
 ###########################
-This developed solution is intended to be a minimal working example of a standard operating procedures (SOPs) digital library. This solution offers an elegant user interface for navigating each SOP in our library. 
+This developed solution is intended to be a minimal working example of a standard operating procedures (SOPs) digital library. This solution offers an elegant user interface for navigating with efficient easy. Our SOP library is easy to navigate, simple to read, well organized, and its scalable. 
 
-Our SOPs are intended to function a set of written detailed instructions, or step – by – step instructions, 
+Our SOPs are intended to function a set of written detailed instructions, or step -- by -- step instructions, 
 on how to complete a single business process.
 
 
