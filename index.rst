@@ -7,6 +7,8 @@ Welcome to SigerTronic SOP Documentation!
 ==========================================
 Table of Contents
 *****************
+General SOPs
+-----------
 .. toctree::
     :numbered:
           
@@ -18,10 +20,13 @@ Table of Contents
     sop-05.rst   
 .. blank line 
 
-New Section
-***********
+Managment SOPs
+---------------
 .. toctree::
     :numbered:
 
     sop-06.rst
     sop-07.rst
+
+Technical SOPs 
+--------------
