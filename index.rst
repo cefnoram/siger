@@ -18,4 +18,9 @@ Table of Contents
     sop-05.rst   
 .. blank line 
 
+New Section
+***********
+.. toctree::
+    :numbered:
 
+    sop-06.rst

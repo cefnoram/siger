@@ -31,7 +31,7 @@ Processes
 
 #. On the Home page, click the Create new Invoices icon.
    
-# . Click the Customer:Job drop-down arrow and select a customer from the list. If customer is not in list chose "B-CASH" from the drop down list. 
+# . Click the *Customer:Job* drop-down arrow and select a customer from the list. If customer is not in list chose "B-CASH" from the drop down list. 
 
 #. Be sure the date and other information is correct.
 
