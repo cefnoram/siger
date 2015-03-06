@@ -80,8 +80,8 @@ Required Fields
 | Filed      | Description                            |
 |            |                                        |
 +============+========================================+
-| Summary    || A brief one line summary of the issue |
-|            | or task. Enough information should be  |
+| Summary    | A brief one line summary of the issue| |
+|            | or task. Enough information should be| |
 |            | provided so that anyone looking at a   |
 |            | list of issue will be able to have an  |
 |            | idea as. to what the WO is about.      |
