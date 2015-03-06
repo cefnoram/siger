@@ -1,7 +1,7 @@
 .. figure:: image/siger.jpg
    :height: 300px
    :width: 300 px
-   :scale: 70 %
+   :scale: 85 %
    :align: center
 
 *************************************

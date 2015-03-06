@@ -1,7 +1,7 @@
 .. figure:: image/siger.jpg
    :height: 300px
    :width: 300px     
-   :scale: 80 %
+   :scale: 85 %
    :align: center
 #########################################
 M001-Approval Process for New Initiative 

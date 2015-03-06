@@ -1,7 +1,7 @@
 .. figure:: image/siger.jpg
    :height: 300px
    :width: 300px    
-   :scale: 70 %
+   :scale: 85 %
    :align: center 
 
 **************************************
@@ -23,6 +23,13 @@ G016--Collect Payment on Open Invoice
 .. versionchanged:: 1.0.1 Fundamental changes made to the structure of the document. 
 
 .. note:: The above is an example of some version control that can be added to each SOP. 
+
+@competitions = @team.competitions.search params[:search],
+  :select   => '*, start_date < NOW() AND end_date > NOW() as current',
+  :witih     => {:current => true},
+  :page     => params[:page],
+  :per_page => 10,
+  :order    => 'created_at DESC'
 
 Introduction
 ############
