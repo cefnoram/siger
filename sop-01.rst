@@ -109,14 +109,14 @@ Required Fields
 | Status     |  Status should be changed by           |
 |            |  technicians                           | 
 |            |  as the WO progresses. When a WO is    |
-|            |   opened, the default is Open.         |
-|            |   Other statuses are                   |
+|            |  opened, the default is Open.          |
+|            |  Other statuses are                    |
 |            |                                        |  
-|            |   - Canceled,                          |
-|            |   - Closed,                            |
-|            |   - Completed – To Be Invoiced,        | 
-|            |   - In Progress, and                   |
-|            |   - Job Completed.                     |
+|            |  - Canceled,                           |
+|            |  - Closed,                             |
+|            |  - Completed – To Be Invoiced,         | 
+|            |  - In Progress, and                    |
+|            |  - Job Completed.                      |
 +------------+----------------------------------------+
 | Type       | This is the type of issue or request,  |
 |            | e.g. Hardware, Software, Network,      |
