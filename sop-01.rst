@@ -78,36 +78,36 @@ Required Fields
 
 .. tabularcolumns::
 
-   +------------+----------------------------------------+
-   | Filed      | Description                            |
-   |            |                                        |
-   +============+========================================+
-   | Summary    | A brief one line summary of the issue  |
-   |            | or task. Enough information should be  |
-   |            | provided so that anyone looking at a   |
-   |            | list of issue will be able to have an  |
-   |            | idea as. to what the WO is about.      |
-   |            | Examples of bad summaries are          |
-   |            | “Printer Issue” or “Computer Problem”  |
-   |            | or “Check System”. Better summaries    |
-   |            | would be “HP OfficeJet 8600 not        |
-   |            | printing” or                           |
-   |            | “Dell Dimension 3100 booting issues”,  |
-   |            | or “Perform full system check and      |
-   |            | provide recommendation”.               | 
-   +------------+----------------------------------------+
-   | Priority   |                                        | 
-   |            | - 1 Urgent,                            | 
-   |            | - 2 High,                              |
-   |            | - 3 Medium,                            |
-   |            | - 4 Low,                               |
-   |            | - 5 Project,                           | 
-   |            | - 6 Self Service/Email                 |
-   |            +----------------------------------------+
-   |            | Note: You must gain approval from      |
-   |            | management prior to setting the        |
-   |            | priority to *1-Urgent*                 | 
-   +------------+----------------------------------------+
++------------+----------------------------------------+
+| Filed      | Description                            |
+|            |                                        |
++============+========================================+
+| Summary    | A brief one line summary of the issue  |
+|            | or task. Enough information should be  |
+|            | provided so that anyone looking at a   |
+|            | list of issue will be able to have an  |
+|            | idea as. to what the WO is about.      |
+|            | Examples of bad summaries are          |
+|            | “Printer Issue” or “Computer Problem”  |
+|            | or “Check System”. Better summaries    |
+|            | would be “HP OfficeJet 8600 not        |
+|            | printing” or                           |
+|            | “Dell Dimension 3100 booting issues”,  |
+|            | or “Perform full system check and      |
+|            | provide recommendation”.               | 
++------------+----------------------------------------+
+| Priority   |                                        | 
+|            | - 1 Urgent,                            | 
+|            | - 2 High,                              |
+|            | - 3 Medium,                            |
+|            | - 4 Low,                               |
+|            | - 5 Project,                           | 
+|            | - 6 Self Service/Email                 |
+|            +----------------------------------------+
+|            | Note: You must gain approval from      |
+|            | management prior to setting the        |
+|            | priority to *1-Urgent*                 | 
++------------+----------------------------------------+
 
 .. note::
    I need to add a table which show the specific required fields used when creating a work order. 
