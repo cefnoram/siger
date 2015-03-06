@@ -120,6 +120,19 @@ Required Fields
 |            |   - In Progress, and                   |
 |            |   - Job Completed.                     |
 +------------+----------------------------------------+
+| Type       | This is the type of issue or request,  |
+|            | e.g. Hardware, Software, Network,      |
+|            | Telecom, Quote, etc.                   |
++------------+----------------------------------------+
+| Subtype    | Each type is broken down into subtypes.| 
+|            | E.g. Hardware has subtypes such as     |
+|            | Computer, Printer, Router, Keyboard,   |
+|            | etc.                                   |
++------------+----------------------------------------+
+| Contact    | Enter a Point Of Contact (POC). Be     |
+| Person     | sure to include a phone number and     |
+|            | email address if possible.             | 
++------------+----------------------------------------+ 
 .. note::
    I need to add a table which show the specific required fields used when creating a work order. 
 
