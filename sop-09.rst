@@ -1,7 +1,7 @@
 .. figure:: image/siger.jpg
    :height: 300px
    :width: 300px     
-   :scale: 70 %
+   :scale: 80 %
    :align: center
 #########################################
 M001-Approval Process for New Initiative 
@@ -72,7 +72,7 @@ Stakeholders
 *Key stakeholders* 
     are those who can have a positive or negative effect on an effort, or who are important within or to an organization, agency, or institution engaged in an effort.
 
-.. note::
+.. tip::
     Stakeholders are committed to an open process and not to a specific outcome. Stakeholders role include representing diverse opinions, branding the process as legitimate, and providing an audience for a reality check.
 
 Staff

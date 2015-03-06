@@ -131,8 +131,6 @@ Required Fields
 | Person     | sure to include a phone number and     |
 |            | email address if possible.             | 
 +------------+----------------------------------------+ 
-.. note::
-   I need to add a table which show the specific required fields used when creating a work order. 
 
 
 Definitions
