@@ -7,6 +7,7 @@
 **************************************
 G016--Collect Payment on Open Invoice
 **************************************
+.. header:: This space for rent.
 
 .. cssclass:: table-bordered
 
