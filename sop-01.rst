@@ -76,7 +76,7 @@ Any team member who is responsible for invoicing customers could be required to 
 Required Fields
 ###############
 
-.. tabularcolumns:: |l|p{8cm}|
+.. cssclass:: table-bordered
 
 +------------+----------------------------------------+
 | Filed      | Description                            |

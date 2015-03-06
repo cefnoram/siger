@@ -11,7 +11,7 @@ Introduction
 -------------
 
 .. toctree::
-   :titlesonly:
+    :titlesonly:
 
     intro.rst
 
