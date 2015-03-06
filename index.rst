@@ -11,7 +11,7 @@ Introduction
 -------------
 
 .. toctree::
-    :numbered:
+    :glob:
           
     intro.rst
 
