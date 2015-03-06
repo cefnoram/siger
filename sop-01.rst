@@ -94,14 +94,14 @@ Required Fields
 |            | or “Perform full system check and      |
 |            | provide recommendation”.               | 
 +------------+----------------------------------------+
-| Priority   | Priorities are:                        | 
-|            |  1 – Urgent,                           | 
-|            |  2 – High,                             |
-|            |  3 – Medium,                           |
-|            |  4 – Low,                              |
-|            |  5 – Project,                          | 
-|            |  6 – Self Service/Email                |
-|            | (see table 1 for details).             |
+| Priority   |                                        | 
+|            | - 1 Urgent,                            | 
+|            | - 2 High,                              |
+|            | - 3 Medium,                            |
+|            | - 4 Low,                               |
+|            | - 5 Project,                           | 
+|            | - 6 Self Service/Email                 |
+|            +----------------------------------------+
 |            | Note: You must gain approval from      |
 |            | management prior to setting the        |
 |            | priority to *1-Urgent*                 | 
