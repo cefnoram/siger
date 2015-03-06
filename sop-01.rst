@@ -76,15 +76,15 @@ Any team member who is responsible for invoicing customers could be required to 
 Required Fields
 ###############
 
-.. tabularcolumns:: |p{3cm}|p{10cm}|
+.. tabularcolumns:: |p{1cm}|p{5cm}|
 
 +------------+----------------------------------------+
 | Filed      | Description                            |
 |            |                                        |
 +============+========================================+
-| Summary    | A brief one line summary of the issue| |
-|            | or task. Enough information should be| |
-|            | provided so that anyone looking at a|  |
+| Summary    | A brief one line summary of the issue  |
+|            | or task. Enough information should be  |
+|            | provided so that anyone looking at a   |
 |            | list of issue will be able to have an  |
 |            | idea as. to what the WO is about.      |
 |            | Examples of bad summaries are          |
