@@ -81,10 +81,10 @@ Required Fields
 |            |                                        |
 +============+========================================+
 | Summary    | A brief one line summary of the issue  |
-|            | or task. Enough information should be  |
+|            |  or task. Enough information should be |
 |            |  provided so that anyone looking at a  |
-|            |  list of issue will be able to have an |
-|            |  idea as. to what the WO is about.     |
+|            |   list of issue will be able to have an|
+|            |   idea as. to what the WO is about.    |
 |            |  Examples of bad summaries are         |
 |            |  “Printer Issue” or “Computer Problem” |
 |            |  or “Check System”. Better summaries   |
