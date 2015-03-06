@@ -43,23 +43,6 @@ Procsses
 
   An SOP is *not* intended to answer all question a team member may have about the business process. In contrast, SOPs are intended to be a supplemental training tool which enhances other training.    
 
-Example Table
-*************
-
-.. note:: This table is an example and it can be structured as needed for each SOP. 
-+------------+------------+-----------+
-| Header 1   | Header 2   | Header 3  |
-+============+============+===========+
-| body row 1 | column 2   | column 3  |
-+------------+------------+-----------+
-| body row 2 | Cells may span columns.|
-+------------+------------+-----------+
-| body row 3 | Cells may  | - Todo    |
-+------------+ span rows. | - Work    |
-| body row 4 |            | - blocks. |
-+------------+------------+-----------+
-
-
 Responsible Personnel
 #####################
 Any team member who is responsible for invoicing customers could be required to seek payment on unpaid invoices. This process is primarily the responsibility of one of our sales floor team members.
