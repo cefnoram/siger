@@ -126,10 +126,10 @@ Required Fields
 .. tabularcolumns:: |r|r|
 .. csv-table::    
    :header: x, x*x
-    3,9
-    4,16
-    9,81    
-    10,100
+   3,9
+   4,16
+   9,81    
+   10,100
 
 Definitions
 ###########
