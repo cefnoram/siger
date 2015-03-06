@@ -123,6 +123,14 @@ Required Fields
    * - Rectangle
      - Four sides, 90 degree angles
 
+.. tabularcolumns:: |r|r|
+.. csv-table::    
+   :header: x, x*x
+    3,9
+    4,16
+    9,81    
+    10,100
+
 Definitions
 ###########
 *Track-It!*:
