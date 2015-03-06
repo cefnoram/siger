@@ -11,8 +11,8 @@ Introduction
 -------------
 
 .. toctree::
-    :glob:
-          
+   :titlesonly:
+
     intro.rst
 
 General SOPs
