@@ -13,7 +13,7 @@ M001-Approval Process for New Initiative
 
 
 .. contents:: 
-   :depth: 3
+   :depth: 2
 
 .. cssclass:: table-bordered
 
