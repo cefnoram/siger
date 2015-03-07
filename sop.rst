@@ -41,13 +41,14 @@ Procsses
 
 .. topic:: SOPs and Their Functions
 
-  An SOP is *not* intended to answer all question a team member may have about the business process. In contrast, SOPs are intended to be a supplemental training tool which enhances other training.    
+   An SOP is *not* intended to answer all question a team member may have about the business process. In contrast, SOPs are intended to be a supplemental training tool which enhances other training.    
 
 Responsible Personnel
 #####################
 Any team member who is responsible for invoicing customers could be required to seek payment on unpaid invoices. This process is primarily the responsibility of one of our sales floor team members.
 
 .. sidebar:: Team Members 
+   
    Although you may not currently seek payment on open invoices, you may be asked to assist in this process, and this SOP will help you understand the steps need to complete this task.
 
 
