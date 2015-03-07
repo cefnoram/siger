@@ -62,7 +62,11 @@ Processes
 
 Scope
 #####
-All service that is requested by customers must have a work order created. This SOP provides employees, who are not familiar with the process, the information need to complete this task. For additional detailed information see SOP T001-Work Order Work Flow in Track-it.   
+All service that is requested by customers must have a work order created. This SOP provides employees, who are not familiar with the process, the information need to complete this task. 
+
+.. seealso::
+
+   For additional detailed information see SOP T001-Work Order Work Flow in Track-it.   
 
 Definitions
 ###########
