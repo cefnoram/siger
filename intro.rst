@@ -1,10 +1,11 @@
 ###########################
 Brief Project Introduction 
 ###########################
+
 .. topic:: Overview
 
-:Date: |today|
-:Author: **Corbin Fletcher**
+   :Date: |today|
+   :Author: **Corbin Fletcher**
 
 
 .. contents:: 
