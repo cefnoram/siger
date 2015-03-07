@@ -7,6 +7,16 @@
 *************************************
 G010-Receive Inventory Items
 *************************************
+.. topic:: Overview
+
+   :Date: |today|
+   :Author: **Thomas Cokelaer**
+
+
+.. contents:: 
+   :depth: 2
+
+
 
 +------------+------------+-----------+-----------+
 | Document ID| Relase Date| Author    | Version   |

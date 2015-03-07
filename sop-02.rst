@@ -7,6 +7,14 @@
 *************************************
 G013--Prepare Sales Cash for Deposit
 *************************************
+.. content:: Overview
+
+   :Date: |today|
+   :Author: **Thomas Cokelaer**
+
+
+.. contents:: 
+   :depth: 2
 
 
 +------------+------------+-----------+------------+
