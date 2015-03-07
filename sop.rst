@@ -7,7 +7,13 @@
 **************************************
 G016--Collect Payment on Open Invoice
 **************************************
-.. header:: This space for rent.
+.. topic:: Overview
+
+   :Date: |today|
+   :Author: **Corbin Fletcher**
+   
+.. contents:: 
+   :depth: 2
 
 .. cssclass:: table-bordered
 
