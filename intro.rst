@@ -1,4 +1,6 @@
-
+###########################
+Brief Project Introduction 
+###########################
 .. topic:: Overview
 
 :Date: |today|
@@ -8,9 +10,7 @@
 .. contents:: 
    :depth: 2
 
-###########################
-Brief Project Introduction 
-###########################
+
 
 This developed solution is intended to be a minimal working example of a standard operating procedures (SOPs) digital library. This solution offers an elegant user interface for navigating with efficient easy. Our SOP library is now easy to navigate, simple to read, well organized, and its scalable. 
 

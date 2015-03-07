@@ -8,9 +8,9 @@
 G016--Collect Payment on Open Invoice
 **************************************
 .. topic:: Overview
-
-   :Date: |today|
-   :Author: **Corbin Fletcher**
+ 
+:Date: |today|
+:Author: **Corbin Fletcher**
    
 .. contents:: 
    :depth: 2
