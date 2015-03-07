@@ -7,6 +7,7 @@
 *************************************
 G010-Receive Inventory Items
 *************************************
+
 .. topic:: Overview
 
 :Date: |today|

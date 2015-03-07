@@ -7,6 +7,7 @@
 *************************************
 G013--Prepare Sales Cash for Deposit
 *************************************
+
 .. topic:: Overview
 
 :Date: |today|
@@ -15,7 +16,6 @@ G013--Prepare Sales Cash for Deposit
 
 .. contents:: 
    :depth: 2
-
 
 +------------+------------+-----------+------------+
 | Document   | Release    | Author    | Version    |
