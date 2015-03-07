@@ -9,7 +9,7 @@ M001-Approval Process for New Initiative
 .. topic:: Overview
 
    :Date: |today|
-   :Author: **Thomas Cokelaer**
+   :Author: **Corbin Fletcher**
 
 
 .. contents:: 

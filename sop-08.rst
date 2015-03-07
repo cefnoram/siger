@@ -9,7 +9,7 @@ G005-Prepare an Estimate
 .. topic:: Overview
 
    :Date: |today|
-   :Author: **Thomas Cokelaer**
+   :Author: **Corbin Fletcher**
 
 
 .. contents:: 
