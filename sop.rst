@@ -48,8 +48,7 @@ Responsible Personnel
 Any team member who is responsible for invoicing customers could be required to seek payment on unpaid invoices. This process is primarily the responsibility of one of our sales floor team members.
 
 .. sidebar:: Team Members 
-   
-.. note:: Although you may not currently seek payment on open invoices, you may be asked to assist in this process, and this SOP will help you understand the steps need to complete this task.
+   Although you may not currently seek payment on open invoices, you may be asked to assist in this process, and this SOP will help you understand the steps need to complete this task.
 
 
 Definitions
