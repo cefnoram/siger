@@ -8,8 +8,8 @@ G005-Prepare an Estimate
 ========================
 .. topic:: Overview
 
-:Date: |today|
-:Author: **Thomas Cokelaer**
+   :Date: |today|
+   :Author: **Thomas Cokelaer**
 
 
 .. contents:: 

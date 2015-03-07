@@ -8,8 +8,8 @@ G002-Create an Invoice
 ======================
 .. topic:: Overview
 
-:Date: |today|
-:Author: **Corbin Fletcher**
+   :Date: |today|
+   :Author: **Corbin Fletcher**
 
 
 .. contents:: 

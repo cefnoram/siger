@@ -8,8 +8,8 @@ G012-Completed to be Invoiced
 ================================
 .. topic:: Overview
 
-:Date: |today|
-:Author: **Corbin Fletcher**
+   :Date: |today|
+   :Author: **Corbin Fletcher**
 
 
 .. contents:: 

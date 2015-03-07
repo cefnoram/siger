@@ -10,8 +10,8 @@ G010-Receive Inventory Items
 
 .. topic:: Overview
 
-:Date: |today|
-:Author: **Corbin Fletcher**
+   :Date: |today|
+   :Author: **Corbin Fletcher**
 
 
 .. contents:: 

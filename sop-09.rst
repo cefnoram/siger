@@ -8,8 +8,8 @@ M001-Approval Process for New Initiative
 #########################################
 .. topic:: Overview
 
-:Date: |today|
-:Author: **Thomas Cokelaer**
+   :Date: |today|
+   :Author: **Thomas Cokelaer**
 
 
 .. contents:: 

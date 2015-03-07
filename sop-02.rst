@@ -10,8 +10,8 @@ G013--Prepare Sales Cash for Deposit
 
 .. topic:: Overview
 
-:Date: |today|
-:Author: **Corbin Fletcher**
+   :Date: |today|
+   :Author: **Corbin Fletcher**
 
 
 .. contents:: 
