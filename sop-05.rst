@@ -6,7 +6,14 @@
 ======================
 G002-Create an Invoice  
 ======================
-.. date::
+.. topic:: Overview
+
+:Date: |today|
+:Author: **Corbin Fletcher**
+
+
+.. contents:: 
+   :depth: 2
 
 .. cssclass:: table-bordered
 

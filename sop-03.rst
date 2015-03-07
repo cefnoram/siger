@@ -9,8 +9,8 @@ G010-Receive Inventory Items
 *************************************
 .. topic:: Overview
 
-   :Date: |today|
-   :Author: **Thomas Cokelaer**
+:Date: |today|
+:Author: **Corbin Fletcher**
 
 
 .. contents:: 

@@ -6,7 +6,13 @@
 ================================
 G004-Front Desk Area Maintenance  
 ================================
-.. date::
+.. topic:: Overview
+
+:Date: |today|
+:Author: **Corbin Fletcher**
+
+.. contents:: 
+   :depth: 3
 
 .. cssclass:: table-bordered
 

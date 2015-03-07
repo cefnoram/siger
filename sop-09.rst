@@ -6,7 +6,14 @@
 #########################################
 M001-Approval Process for New Initiative 
 #########################################
+.. topic:: Overview
 
+:Date: |today|
+:Author: **Thomas Cokelaer**
+
+
+.. contents:: 
+   :depth: 3
 
 .. cssclass:: table-bordered
 

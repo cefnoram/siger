@@ -6,7 +6,14 @@
 ================================
 G012-Completed to be Invoiced  
 ================================
-.. date::
+.. topic:: Overview
+
+:Date: |today|
+:Author: **Corbin Fletcher**
+
+
+.. contents:: 
+   :depth: 2
 
 .. cssclass:: table-bordered
 

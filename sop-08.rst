@@ -6,7 +6,14 @@
 ========================
 G005-Prepare an Estimate 
 ========================
-.. date::
+.. topic:: Overview
+
+:Date: |today|
+:Author: **Thomas Cokelaer**
+
+
+.. contents:: 
+   :depth: 2
 
 .. cssclass:: table-bordered
 

@@ -6,7 +6,15 @@
 =============================
  G011-File Daily Sale Invoice
 =============================
-.. |date| date::
+
+.. topic:: Overview
+
+:Date: |today|
+:Author: **Corbin Fletcher**
+
+
+.. contents:: 
+   :depth: 2
 
 .. cssclass:: table-bordered
 
