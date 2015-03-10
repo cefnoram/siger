@@ -50,10 +50,11 @@ Processes
 .. image:: image/rec-02.jpg
    :height: 400px
    :width: 550px
-   :scale: 95 %
+   :scale: 100 %
    :align: center
     
-This is a detailed image of the Quickbooks Item Receipt window. Highlighted are the primary fields that need to be populated. Also, the image contains an example inventory item being received.
+.. note::
+   Above is a detailed image of the Quickbooks Item Receipt window. Highlighted are the primary fields that need to be populated. Also, the image contains an example inventory item being received.
 
 #. You must Enter each item into the Quickbooks database using the purchasing work sheet data.
 
