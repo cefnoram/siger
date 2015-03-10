@@ -46,6 +46,7 @@ Processes
 #. Go to **Vendors => Receive Items**;
 
 #. Next, the **Create Item Receipts** window will open;
+
 .. figure:: image/rec-02.jpg
    :height: 350px
    :width: 400 px
