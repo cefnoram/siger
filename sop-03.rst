@@ -41,11 +41,11 @@ This task requires a team member to understand our daily operational process of 
 
 Processes
 ##########
-#. Log into Quickbooks;
+1. Log into Quickbooks;
 
-#. Go to **Vendors => Receive Items**;
+2. Go to **Vendors => Receive Items**;
 
-#. Next, the **Create Item Receipts** window will open;
+3. Next, the **Create Item Receipts** window will open;
 
 .. image:: image/rec-02.jpg
    :height: 400px
@@ -56,17 +56,17 @@ Processes
 .. note::
    Above is a detailed image of the Quickbooks Item Receipt window. Highlighted are the primary fields that need to be populated. Also, the image contains an example inventory item being received.
 
-#. You must Enter each item into the Quickbooks database using the purchasing work sheet data.
+4. You must Enter each item into the Quickbooks database using the purchasing work sheet data.
 
-#. After all the data has been entered, click on **Report => Transaction Journal** report;
+5. After all the data has been entered, click on **Report => Transaction Journal** report;
 
-#. Next, from the main tool bar, click **Excel => Create New Work Sheet**, Save the report to your local computer as an Excel spread sheet;
+6. Next, from the main tool bar, click **Excel => Create New Work Sheet**, Save the report to your local computer as an Excel spread sheet;
 
-#. Then export the Excel file and save the report as PDF;
+7. Then export the Excel file and save the report as PDF;
 
-#. Next, navigate to your email client (MS Outlook), locate your originally email containing the purchase order work sheet, open the email and click reply to all. Next, compose an email, and send the PDF copy of your Transaction Journal report as an attachment;
+8. Next, navigate to your email client (MS Outlook), locate your originally email containing the purchase order work sheet, open the email and click reply to all. Next, compose an email, and send the PDF copy of your Transaction Journal report as an attachment;
 
-#. Lastly, upload the PDF copy to SigerTronic System network share directory (**P:\Inventory Received**).
+9. Lastly, upload the PDF copy to SigerTronic System network share directory (**P:\Inventory Received**).
 
 .. tip:: 
     You can use the note section of the COB sheet to state facts such as why you are short twenty dollars.
