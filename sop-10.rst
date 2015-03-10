@@ -98,6 +98,10 @@ To add a note to a WO, select Technician Note from the Note Type drop down and t
 
 * Any communication with the customer. When email a customer, it’s best to email directly from the WO. To facility the email thread, be sure to include your email address as a CC.
 
+.. role:: red
+   This text is :red:`colored red` and so is :red:`this`
+
+
 * Any internal communication. **Be sure to check the Private box so that this information is not made available to the customer**.
 
 * Any relevant photos or documents
