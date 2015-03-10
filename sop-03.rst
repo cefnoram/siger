@@ -66,23 +66,22 @@ Processes
 
 8. Next, navigate to your email client (MS Outlook), locate your originally email containing the purchase order work sheet, open the email and click reply to all. Next, compose an email, and send the PDF copy of your Transaction Journal report as an attachment;
 
-9. Lastly, upload the PDF copy to SigerTronic System network share directory (**P:\Inventory Received**).
-
-.. tip:: 
-    You can use the note section of the COB sheet to state facts such as why you are short twenty dollars.
+9. Lastly, upload the PDF copy to SigerTronic System network share directory (P:\Inventory Received).
 
 Scope
 #####
 Accurately enter received inventory items into our Qucikbooks database is an extremely crucial business process and it must be done correct. Anyone who is not experienced with this task should follow the processes articulated in this SOP. Additionally, this SOP will provide someone with all the information needed to complete this task.
 
 
-
 Definitions
 ###########
 .. container:: table-row
    
-    *Receipt Book*: 
-        For every sales transaction you will hand write a receipt. This receipt will serve as a secondary check when totaling your sales at the end of the day.
+    *The manifest*: 
+        Provides item description and quantity of each item shipped to our retail location. The manifest is a breakdown of the cost for shipping and the cost of each item. Obtaining the manifest is an absolute requirement for completing this task.
+
+.. tip::
+   The shipping manifest is synonyms with purchase order work sheet.
     
     *2 X 3 inch paper*: 
         You will need to keep sufficient quantity of two by three inch pieces of paper use for documenting each cash sale.
