@@ -141,6 +141,11 @@ Required Fields
 |            | email address if possible.             | 
 +------------+----------------------------------------+ 
 
+.. image:: image/siger-tab-04_001.jpg
+   :height: 300px
+   :width: 450px    
+   :scale: 100 %
+   :align: center
 
 Definitions
 ###########
