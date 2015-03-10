@@ -46,9 +46,9 @@ Processes
 #. Go to **Vendors => Receive Items**;
 
 #. Next, the **Create Item Receipts** window will open;
-.. figure:: image/siger.jpg
-   :height: 300px
-   :width: 300 px
+.. figure:: image/rec-02.jpg
+   :height: 350px
+   :width: 400 px
    :scale: 85 %
    :align: center
    :alt: This is a detailed image of the Quickbooks Item Receipt window. Highlighted are the primary fields that need to be populated. Also, the image contains an example inventory item being received.
@@ -70,11 +70,9 @@ Processes
 
 Scope
 #####
-All service that is requested by customers must have a work order created. This SOP provides employees, who are not familiar with the process, the information need to complete this task. 
+Accurately enter received inventory items into our Qucikbooks database is an extremely crucial business process and it must be done correct. Anyone who is not experienced with this task should follow the processes articulated in this SOP. Additionally, this SOP will provide someone with all the information needed to complete this task.
 
-.. seealso::
 
-   For additional detailed information see SOP T001-Work Order Work Flow in Track-it.   
 
 Definitions
 ###########
