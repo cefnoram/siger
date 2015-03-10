@@ -143,7 +143,7 @@ Required Fields
 
 .. image:: image/siger-tab-04_001.jpg
    :height: 350px
-   :width: 700px    
+   :width: 750px    
    :scale: 100 %
    :align: center
 
