@@ -79,32 +79,11 @@ Definitions
    
     *The manifest*: 
         Provides item description and quantity of each item shipped to our retail location. The manifest is a breakdown of the cost for shipping and the cost of each item. Obtaining the manifest is an absolute requirement for completing this task.
+          
+    *Transaction Journal report*: 
+        Is created after you have manually entered all relevant data from the manifest into our Quickbooks database. 
 
 .. tip::
    The shipping manifest is synonyms with purchase order work sheet.
-    
-    *2 X 3 inch paper*: 
-        You will need to keep sufficient quantity of two by three inch pieces of paper use for documenting each cash sale.
-    
-    *Cash Out Balance (COB) Sheet*: 
-        This form is where you provide all details about your days sales.
-    
-    *Petty Cash*: 
-        Is a term used to describe money that is separate from your daily deposit cash and petty cash is located to the right of the deposit money. The petty cash is also used to provide change to customers, if and only if, there is no money in the deposit cash stack. And you must make a note (e.g., PC $30) on your two by three inch paper reflecting the fact that you used money from petty cash to provide change.  The petty cash money is used to provide employees with money to make purchases of office supplies, gas of the motorcycles, etc. Petty cash amount should be three hundred dollars at all times.
-    
-    *Deposit Cash*: 
-        is cash that is used daily to provide change for cash sales, and is provided to management at the end of the work day. 
-
-Addational Information
-######################
-.. warning:: 
-    This is an important section and it should not be over looked.  
-
-* The amount of cash in the deposit stack must be equal or greater than the total from the cash column of the COB sheet. So, if the total cash amount from the cash column is $300 you should have $300 cash to provide for the deposit. However, if you have less money than the total from the cash column, you need to perform an investigation to determine why you are short. To begin your investigation you can check your collection of two by three inch papers and/or your receipt book to discover why there is a shortage. If you have a greater quantity of money in your deposit cash the amount that you are over is moved to petty cash.
-
-* All currency is stored in the front desk area. There you will find two stacks of money, the stack furthest to the left is cash deposit money and the money to the right is petty cash. The cash deposit money is used to provide change when a customer has purchased an item. 
-
-.. caution:: 
-   SigerTronic Systems does **not** accept personal checks. 
 
 
