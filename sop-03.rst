@@ -48,8 +48,8 @@ Processes
 #. Next, the **Create Item Receipts** window will open;
 
 .. image:: image/rec-02.jpg
-   :height: 350px
-   :width: 400px
+   :height: 400px
+   :width: 550px
    :scale: 85 %
    :align: center
     
