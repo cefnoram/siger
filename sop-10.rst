@@ -4,9 +4,9 @@
    :scale: 85 %
    :align: center
 
-*************************
-G009--Create a Work Order
-*************************
+#####################################
+T001-Work Order Workflow in Track-It!
+#####################################
 .. topic:: Overview
 
    :Date: |today|
@@ -21,16 +21,66 @@ G009--Create a Work Order
 | Document   | Release    | Author    | Version    |
 | ID         | Date       |           |            |
 +============+============+===========+============+
-| G009-Create| 16/2/2015  | Corbin    | v 1.0      |
-| a Work     |            | Fletcher  |            |
-| Order      |            |           |            |
+| T001-Work  | 24/09/2014 | Bobby     | v 1.0      |
+| Order      |            | Bennett   |            |
+| Workflow in|            |           |            |
+| TrackIT!   |            |           |            |  
 +------------+------------+-----------+------------+
 
-.. versionadded:: 1.0.1, Content add 11/2/2015
+.. versionadded::  v 1.0
 
+*************
 Introduction
-############
-Customers that come into SigerTronic Systems requesting service must have a work order created for their required level of service. A work order is a start to finish record of the work to be performed.  Work orders are created for repairs on physical machines, and all customer primes work. A work order (WO) goes through various stages (e.g., statuses). During some statuses, key pieces of information must be entered in order to ensure the work order flows smoothly from beginning to end, which includes making sure that all necessary and beneficial information is captured. 
+*************
+Steps and guidelines for the proper workflow of work orders using BMC TrackIT!. This SOP was written based on Track-It v11.3 but will likely remain unchanged despite newer versions of Track-It.
+
+
+******************
+Track-It Overview
+******************
+
+IT Help Desk
+=============
+This section give a brief overview of the initiative. Improve end-user satisfaction and resolution rates while reducing costs by allowing your help desk technicians to track their work more efficiently. Justify the need for additional staff through tracking of all tasks. Department Security can segment data so multiple departments can utilize the Track-It! Help Desk to manage their tasks. Facilities, Human Resources and IT Help Desk can all benefit from task management using Track-It! The Help Desk includes LDAP/Active Directory integration, Work Order Templates, Service Level Agreements (SLAs), Work Order Timer, Stop the Clock, Scheduled Work Orders, Scheduled Reports, Parent/Child tickets, Automatic Email to Work Order conversion, Skill Routing, Event Policies, Automatic Prioritization, Automatic Escalation, Email Conversation Management and Notifications.
+
+Asset Management
+================
+Reduce costs and wasteful spending on IT assets you thought were lost or didn’t realize you owned. Automatic asset discovery and auditing gather and record asset information for everything on your network, giving you the ability to take control of your IT environment and make better decisions with complete hardware, software and configuration data about all of your assets. The Inventory module includes popular features such as Asset Discovery, Auditing, Audit on Demand, Unassigned
+Equipment Inventory and Asset Retirement.
+
+Self Service Portal
+===================
+Reduce costs by allowing end-users to log tickets and get status on existing tickets through the Self-Service Web Portal. Your users can submit new requests, search for solutions to common problems, view the status of previously submitted work orders, access their asset information or reset their AD password. You can even utilize the Active Directory integration to provide trusted AD authentication for rapid and easy access. Save time and precious resources by helping users to help themselves.
+
+Software License Management
+===========================
+Never waste money on software licenses that you already owned or worry about fines or penalties related to a software audit. Along with the Track-It! Asset Management module, Software License Management helps you keep track of and report on the number (and type) of software licenses owned and utilized within your organization. Gain control over your software licensing costs and get access to instant and accurate license information.
+
+Mobile Help Desk
+================
+Save time and money by allowing your mobile help desk technicians to update their work orders and enter new ones while on the go. The Track-It! Mobile capability gives technicians easy mobile access to the Help Desk, Asset Management and Knowledge Management modules. Technicians can now update or add work items from anywhere, allowing them to give great service to your users on the move and keep up with their work without having to go back to their desk.
+
+Knowledge Management
+====================
+Save time and money by utilizing lessons learned from previous help desk tickets. Knowledge management in the Solutions module allows IT staff to build a database of solutions to help save time and money training new IT staff or troubleshooting known issues as well as allowing end users to resolve common issues themselves by giving them the ability to search known solutions in the self-service portal. Solutions can be marked as Public or Private, allowing you to filter which solutions are seen by your Help Desk Technicians and which are seen by your end-users.
+
+Scheduled & Emailed Reports
+===========================
+Save time and money by optimizing your Help Desk and Asset Management operations by regularly monitoring key metrics. Schedule and e-mail reports automatically to keep you and your management up to date on the latest trends in your business. Based on the industry leading Crystal Reports reporting tool, you get the sophistication and flexibility you need to keep track of key performance and capacity data.
+
+Dashboards & Analytics
+======================
+Reports and dashboards help you save time and money by giving you an instant and visual display of your key performance indicators. Schedule and email important reports for regular metrics reporting in your group or to management. Continually improve your service quality through effective and timely reporting.
+
+Track-It Manuals and Training 
+=============================
+Manuals are located at SigerUniversity on the SigerTronic Systems Intranet::
+`Siger Team Site <https://sigertronicsystems.sharepoint.com/SigerUniversity>`_ Training documents are stored by Track-It version.
+
+*********
+Workflow
+*********
+
 
 Processes
 ##########

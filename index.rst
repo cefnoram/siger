@@ -41,4 +41,9 @@ Managment SOPs
     sop-09.rst
     
 Technical SOPs 
---------------
+-------------
+.. toctree::
+    :numbered:
+
+    sop-10.rst
+
