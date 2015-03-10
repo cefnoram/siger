@@ -21,7 +21,8 @@ General SOPs
 .. toctree::
     :maxdepth: 2
     :numbered:
-    
+    :titlesonly:   
+
     sop.rst
     sop-01.rst
     sop-02.rst
