@@ -79,6 +79,7 @@ Manuals are located at SigerUniversity on the SigerTronic Systems Intranet: `Sig
 *********
 Workflow
 *********
+
 Overview
 ========
 A work order (WO) goes through various stages (i.e. statuses). During some statuses, key pieces of information must be entered in order to ensure the work order flows smoothly from beginning to end, which includes making sure that all necessary and beneficial information is captured.
