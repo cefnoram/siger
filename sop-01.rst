@@ -166,6 +166,10 @@ Addational Information
 
 * All walk in customers (requesting repairs or service) pay a $45.00 fee which is added to the work order as a second note. This fee is paid at the time they deliver their personal items for repair. The only customers who are exempt from the $45.00 fee are commercial clients who have open accounts with SigerTronic Systems. 
 
-* This task requires our team member to generate a Quickbooks invoice (see procedure #13 for details). Additionally, you can obtain *SOP G002 Create an Invoice* for detailed information on how to create a Quickbooks invoice.
+* This task requires our team member to generate a Quickbooks invoice (see procedure #13 for details). 
+
+.. seealso::
+
+   Additionally, you can obtain *SOP G002 Create an Invoice* for detailed information on how to create a Quickbooks invoice.
 
 
