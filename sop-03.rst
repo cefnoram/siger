@@ -28,13 +28,12 @@ G010-Receive Inventory Items
 | Items      |            |           |           | 
 +------------+------------+-----------+-----------+
 
-.. versionadded:: 1.0.1, Content added 21/2/2015
+.. versionadded:: v1.0, Content added 21/2/2015
 
-.. tip:: This table is an example and it can be structured as needed for each SOP. Version control is a requirement and it is part of or SOP template; therefore, I have added it here.  
 
 Introduction
 ############
-There are certain process that need to be followed to ensure that all money received for sales transactions is recorded and properly accounted for. This SOP will provided you with the steps to successfully complete this business process. All sales cash is submitted to management and is deposited daily.  
+When merchandise arrives to our retail location each item must be received properly. During this process, you manually enter relevant data about each item received at our retail location. Initially, you are emailed a manifest, and then using the data contained in the manifest, you will enter data into our Quickbooks data base. This task is very important and you must be accurate when entering the data.
 
 Scope   
 #####
@@ -42,22 +41,29 @@ This task requires a team member to understand our daily operational process of 
 
 Processes
 ##########
-#. As each sales transaction is complete you use the specific details to record that transaction;
-#. Verify that you have sufficient numbers of two inch by three inch pieces of paper. Use one piece of paper per sales transaction and make a note each sale;
-    a. The data you will record on the paper is as follows; a.) cash amount; b.) the days date; c.) corresponding invoice number and if applicable d.) Petty Cash (i.e., P.C.), plus total amount taken from petty cash: example, P.C. $30. 
-    b. These hand written paper sales records will be your primary check when totaling your cash sales at the end of the day.
-#. At the end of the work day you will obtain a blank copy of Cash Out Balance (COB) sheet and enter the required data from the days sales. The COB sheets are stored in the front desk area for your convenience;
-#. For each column on the COB sheet you will provide relevant data for every transaction. Below is a list (a through h) of column headings which corresponds directly to a physical copy of the COB sheet; additionally, there are some details provided about each column;
-    a. Cash On Hand: Hear you will count the money in the stack of cash to be deposited and put the quantity of each denomination of currency. So, if there are two one hundred dollar bills place the number 2 to the right of the “X” and write the total on the line provided. An example is: $100 X 2 = $200. 
-    b. Continue this process until you have accounted for all the currency in the deposit cash.
-    c. Cash: In this section you will write the invoice number and total dollar amount for each cash transaction which occurred. Use only one single line per transaction. Next total all cash and put the total amount on the line provided;
-    d. Checks: Company name and total amount of transaction are required. One line per transaction. Add the cash amounts and write the total on the line bellow the column.
-    e. Credit Cards/Deposits: In this column you will add the name of the credit card holder and the amount of the transaction. Next, total all tractions and write the total on the line provide;
-    f. Final Total: This line is at the buttom of the COB sheet. This line is where you provide the grand total from all sales (i.e., cash, check, credit).
-    g. Prepared by: Is where you sing your name;
-    h. Date: There are date fields at the top and bottom of the COB sheet;
-#. Next, you will check the total from the “cash on hand” column and verify that it is exactly the same as the totals from the “cash” column. If the totals match move on to step seven. If, however, the totals do not match see additional information section of this SOP. This section will provide some information on how to investigate your cash shortage.
-#. Collect all documents including your two inch by three inch paper transaction records, cash out balance sheet, checks, money, hand written receipts, credit card receipts, and any other items pertaining to the day’s sales, and deliver all of them to management.
+#. Log into Quickbooks;
+
+#. Go to **Vendors => Receive Items**;
+
+#. Next, the **Create Item Receipts** window will open;
+.. figure:: image/siger.jpg
+   :height: 300px
+   :width: 300 px
+   :scale: 85 %
+   :align: center
+   :alt: This is a detailed image of the Quickbooks Item Receipt window. Highlighted are the primary fields that need to be populated. Also, the image contains an example inventory item being received.
+
+#. You must Enter each item into the Quickbooks database using the purchasing work sheet data.
+
+#. After all the data has been entered, click on **Report => Transaction Journal** report;
+
+#. Next, from the main tool bar, click **Excel => Create New Work Sheet**, Save the report to your local computer as an Excel spread sheet;
+
+#. Then export the Excel file and save the report as PDF;
+
+#. Next, navigate to your email client (MS Outlook), locate your originally email containing the purchase order work sheet, open the email and click reply to all. Next, compose an email, and send the PDF copy of your Transaction Journal report as an attachment;
+
+#. Lastly, upload the PDF copy to SigerTronic System network share directory (**P:\Inventory Received**).
 
 .. tip:: 
     You can use the note section of the COB sheet to state facts such as why you are short twenty dollars.
