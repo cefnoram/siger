@@ -74,63 +74,64 @@ Reports and dashboards help you save time and money by giving you an instant and
 
 Track-It Manuals and Training 
 =============================
-Manuals are located at SigerUniversity on the SigerTronic Systems Intranet::
-`Siger Team Site <https://sigertronicsystems.sharepoint.com/SigerUniversity>`_ Training documents are stored by Track-It version.
+Manuals are located at SigerUniversity on the SigerTronic Systems Intranet: `Siger Team Site <https://sigertronicsystems.sharepoint.com/SigerUniversity>`_ Training documents are stored by Track-It version.
 
 *********
 Workflow
 *********
+Overview
+========
+A work order (WO) goes through various stages (i.e. statuses). During some statuses, key pieces of information must be entered in order to ensure the work order flows smoothly from beginning to end, which includes making sure that all necessary and beneficial information is captured.
 
+New Work Order
+==============
+Whenever a work order is created, the following pieces of information must be entered. These are considered “required fields” and have an asterisk (*) next to the field name.
 
-Processes
-##########
+Updating a Work Order
+======================
+As soon as a technician begins working on a WO, the status should be changed to In Progress.
 
-#. Log into Track-It! HelpDesk with your user name;
+To add a note to a WO, select Technician Note from the Note Type drop down and then select the appropriate Activity Code. All notes relating to the WO should be entered. Example of notes include:
 
-#. Click **New Work Order** button this brings up a blank work order in a new window.
+* Actions taken and the results.
 
-#. Click the **Requester** drop down menu, begin typing the customers, and choose the client from the list, or choose **Walk In**;
+* Any communication with the customer. When email a customer, it’s best to email directly from the WO. To facility the email thread, be sure to include your email address as a CC.
 
-#. Populate the Phone number field with the Walk In customers correct phone number;
+* Any internal communication. **Be sure to check the Private box so that this information is not made available to the customer**.
 
-#. Set the appropriate **Priority**;
+* Any relevant photos or documents
 
-#. Click the **Type** drop down box and choose the correct type (e.g., software, labor, networking, etc.);
+* Any parts ordered
 
-#. Click **Sub Type** and choose the correct sub type;
+When entering notes, be sure to use proper grammar, language, punctuation and spelling as these notes are viewable by the customers via the web interface. They also can appear when a detailed WO is printed. To include others on all emails sent from the WO, fill in their email address in the CC or BCC fields on the Billing and Additional Fields tab.
 
-#. Next assign the work order to the correct Technician;
+If parts are being ordered or you are waiting on a customer, change the status accordingly. The Waiting on Part and the Waiting on Customer statuses will stop the clock. If parts are being ordered, the Vendor Date needs to be completed with the expected arrival date of the parts. If a new Vendor Date needs to be entered, enter a private note giving an explanation and then enter the new Vendor Date. When saving the WO with either of these statuses, you will see the following message.
 
-#. Next add the contact person’s name;
+If a WO has a Waiting Parts status and the parts have arrived, change the status to In Progress and send an email to the technician using the Email Technician option from within the WO. Change the status to In Progress restarts the clock.
 
-#. Populate the Summary filed with a short but accurate description of the work to be performed;
+Completing a Work Order
+=======================
+The following fields are not required when completing a WO but its strongly recommended.
 
-#. The **Note** field is where you added a detailed account of the services being requested. If the customer has delivered his/her laptop, the lap top’s charger, and laptop sleeve, you are required to list all these items in the Notes field. You must be detailed, specific, and complete when writing your note. While populating the Notes field you must provide sufficient detailed information and there is no room for vagueness or ambiguity in your description.
+Table here
 
+Change the status to Job Completed. During this status, a quality control check will be completed by another tech. Click on the Email Technician icon. Enter the email address of the technician who will do the quality control check. When saving the WO, you will see the following messages about stopping the clock.
 
-#. Click the **Add Note** button;
+Quality Control
+===============
+If an issue if found during the QC check, add notes as private or send an email to the technician using the Email Technician function. Change the status of the WO back to In Progress. If the work is satisfactory, change the status to **Completed – To Be Invoiced**.
 
-#. The second work order note is always the fact that our customer has paid the required $45.00. This is a second and separate note. This second note must also include Quickbooks invoice number. You are required to generate a Quickbooks invoice for the $45.00 the customer paid;
+Invoicing
+=========
+After invoicing, change the status of the WO to **Closed**.
 
-#. Before moving on to the next step *review your work carefully*;
+***********
+Priorities 
+***********
+Table here
 
-#. Save and Close;
+For all priorities, the ECD is recalculated if the WO's time is paused, changing the status to Waiting Parts or Waiting Materials.
 
-#. Next, re-open the Work order, and print two pages. One page is singed by the customer, and the second copy is singed by the SigerTronic Systems employee. Further, the copy of the work order, which was signed by the customer, is retained by SigerTronic Systems and the customer is provided with the copy that the SigerTronic employee singed. This creates a signed service agreement between SigerTronic Systems and our customer(s).
-
-
-Scope
-#####
-
-All service that is requested by customers must have a work order created. This SOP provides employees, who are not familiar with the process, the information need to complete this task. 
-
-.. seealso::
-   For additional detailed information see **SOP T001-Work Order Work Flow in Track-it**.   
-
-
-Responsible Personnel
-#####################
-Any team member who is responsible for invoicing customers could be required to seek payment on unpaid invoices. This process is primarily the responsibility of one of our sales floor team members. 
 
 Required Fields
 ###############
