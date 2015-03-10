@@ -40,7 +40,7 @@ Managment SOPs
 .. toctree::
     :maxdepth: 2
     :numbered:
-
+    :titlesonly:
     sop-09.rst
     
 Technical SOPs 
@@ -48,6 +48,7 @@ Technical SOPs
 .. toctree::
     :maxdepth: 2
     :numbered:
+    :titlesonly:
 
     sop-10.rst
 
