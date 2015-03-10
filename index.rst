@@ -19,6 +19,7 @@ General SOPs
 -------------
 
 .. toctree::
+    :maxdepth: 2
     :numbered:
     
     sop.rst
@@ -36,6 +37,7 @@ General SOPs
 Managment SOPs
 ---------------
 .. toctree::
+    :maxdepth: 2
     :numbered:
 
     sop-09.rst
@@ -43,6 +45,7 @@ Managment SOPs
 Technical SOPs 
 -------------
 .. toctree::
+    :maxdepth: 2
     :numbered:
 
     sop-10.rst
