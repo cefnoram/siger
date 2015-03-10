@@ -50,7 +50,7 @@ Processes
 .. image:: image/rec-02.jpg
    :height: 400px
    :width: 550px
-   :scale: 85 %
+   :scale: 95 %
    :align: center
     
 This is a detailed image of the Quickbooks Item Receipt window. Highlighted are the primary fields that need to be populated. Also, the image contains an example inventory item being received.
