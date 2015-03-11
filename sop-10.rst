@@ -199,28 +199,6 @@ Required Fields
    :scale: 100 %
    :align: center
 
-.. table:: Optional Caption
-    :widths: 3 2 1
-    :column-alignment: left center right
-    :column-wrapping: true true false
-    :column-dividers: none single double single
-
-    =========== =========== ===============
-    Width 50%   Width 33%   Width 16%
-    =========== =========== ===============
-    Line 1      This text   This text
-                should wrap will always
-                onto        be one line.
-                multiple
-                lines.
-    Line 2      Centered.   Right-Aligned.
-    Line 3      Centered    Right-Aligned
-                Again.      Again.
-    =========== =========== ===============
-
-
-
-
 
 Definitions
 ###########
