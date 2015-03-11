@@ -1,8 +1,8 @@
 # SigerTronic Systems 
 
-This is a project that I created to address several particular design flaws that were present in the corporate standard operating procedures digital library. The current digital library...is one directory and all SOPs are composed in MS Word documents. 
+This is a project that I created to address several particular design flaws that were present in our corporate standard operating procedures digital library. The current digital library...is one directory and all SOPs are composed in MS Word documents. 
 
-This library is inherently:
+Our digital library is inherently:
 
 * not user friendly;
 
@@ -14,6 +14,8 @@ This library is inherently:
 
 I created this solution the address these design flaws. 
 
-Now our SOP digital library has an elegant user interface. It is easy to navigate from one SOP to the next. It is well organized, and it looks professional.  
+Now our SOP digital library has an elegant user interface. It is easy to navigate from one SOP to the next. It is well organized, and it looks professional. 
+
+URL: siger.readthedocs.org
 
 
