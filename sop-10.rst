@@ -114,7 +114,41 @@ Completing a Work Order
 =======================
 The following fields are not required when completing a WO but its strongly recommended.
 
-Table here
++------------+----------------------------------------+
+| Filed      | Description                            |
+|            |                                        |
++============+========================================+
+| Resolution | This dropdown list contains possible   | 
+| Code       | resolutions.                           |
++------------+----------------------------------------+
+| Resolution | This is where you put a quick summary  |
+|            | as to what was done to solve the issue.| 
+|            | If a customer’s email address is part  |
+|            | of requestor assigned to the WO, the   |
+|            | customer will get an email with this   |
+|            | resolution. Be sure to keep the        |
+|            | resolution short, sweet and            |
+|            | professional. Examples of good         | 
+|            | resolutions are:                       | 
+|            | - Printer motherboard replaced,        | 
+|            | - Dell Dimension 3100 boot sector      |
+|            |   was corrupted. Boot sector           |
+|            |   repaired,                            |
+|            | - Full system check performed.         |
+|            |   Viruses removed. System optimization |
+|            |   performed.                           |
+|            | If the resolution is a standard fix for| 
+|            | which a Solution has been setup, click |
+|            | the Solution button and select the     |
+|            | appropriate solution.                  |
+|            |                                        | 
+|            |                                        |
++------------+----------------------------------------+
+| Hours to   | Enter the hours to be billed.          |
+| Bill       |                                        |
++------------+----------------------------------------+
+
+::
 
 Change the status to Job Completed. During this status, a quality control check will be completed by another tech. Click on the Email Technician icon. Enter the email address of the technician who will do the quality control check. When saving the WO, you will see the following messages about stopping the clock.
 
@@ -198,8 +232,9 @@ Required Fields
    :width: 850px    
    :scale: 100 %
    :align: center
-   
-   Left mouse click image for larger view. 
+   :figclass: align-center
+
+   Figure: Left mouse click image for larger view. 
 
 Definitions
 ###########
