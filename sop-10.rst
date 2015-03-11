@@ -205,9 +205,9 @@ Required Fields
     :column-wrapping: true true false
     :column-dividers: none single double single
 
-    =========== =========== ===========
+    =========== =========== ===============
     Width 50%   Width 33%   Width 16%
-    =========== =========== ===========
+    =========== =========== ===============
     Line 1      This text   This text
                 should wrap will always
                 onto        be one line.
@@ -216,7 +216,7 @@ Required Fields
     Line 2      Centered.   Right-Aligned.
     Line 3      Centered    Right-Aligned
                 Again.      Again.
-    =========== =========== ===========
+    =========== =========== ===============
 
 
 
@@ -224,6 +224,7 @@ Required Fields
 
 Definitions
 ###########
+
 *Track-It!*:
     Is our IT help desk ticketing, customer service, issue tracking, system used by all SigerTronic Systems employees.
 *Work Order*: 
