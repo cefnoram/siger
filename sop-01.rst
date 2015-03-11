@@ -141,12 +141,14 @@ Required Fields
 |            | email address if possible.             | 
 +------------+----------------------------------------+ 
 
-.. image:: image/siger-tab-04_001.jpg
+.. figure:: image/siger-tab-04_001.jpg
    :height: 500px
    :width: 850px    
    :scale: 100 %
    :align: center
+   :figclass: align-center
 
+   Figure: This table provides details of your priority options. Left mouse click for larger image.
 Definitions
 ###########
 *Track-It!*:
