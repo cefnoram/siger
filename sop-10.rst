@@ -88,6 +88,8 @@ New Work Order
 ==============
 Whenever a work order is created, the following pieces of information must be entered. These are considered “required fields” and have an asterisk (*) next to the field name.
 
+Table goes here 
+
 Updating a Work Order
 ======================
 As soon as a technician begins working on a WO, the status should be changed to In Progress.
@@ -164,7 +166,15 @@ After invoicing, change the status of the WO to **Closed**.
 ***********
 Priorities 
 ***********
-Table here
+.. figure:: image/siger-tab-04_001.jpg
+   :height: 500px
+   :width: 850px    
+   :scale: 100 %
+   :align: center
+   :figclass: align-center
+
+   Figure: This table provides details of your priority options. Left mouse click for larger image. 
+
 
 For all priorities, the ECD is recalculated if the WO's time is paused, changing the status to Waiting Parts or Waiting Materials.
 
@@ -228,14 +238,6 @@ Required Fields
 |            | email address if possible.             | 
 +------------+----------------------------------------+ 
 
-.. figure:: image/siger-tab-04_001.jpg
-   :height: 500px
-   :width: 850px    
-   :scale: 100 %
-   :align: center
-   :figclass: align-center
-
-   Figure: Left mouse click image for larger view. 
 
 Definitions
 ###########
