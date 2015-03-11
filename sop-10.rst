@@ -107,6 +107,10 @@ Whenever a work order is created, the following pieces of information must be en
 
    Table: The above fields are not required, but it is highly recommended, that they be completed when each work order is created. Left mouse click the above image for larger view. 
 
+.. note::
+
+   The above tables are images, which were created in a alternative program, and included here. This is a work around for me because of the  limitations (short comings) of the embedded tables native to this program. The above tables can be enlarged by left mouse clicking on the image. Enlarging the table allows for easy viewing and easy reading.    
+
 Updating a Work Order
 ======================
 As soon as a technician begins working on a WO, the status should be changed to In Progress.
