@@ -166,6 +166,7 @@ After invoicing, change the status of the WO to **Closed**.
 ***********
 Priorities 
 ***********
+
 .. figure:: image/siger-tab-04_001.jpg
    :height: 500px
    :width: 850px    
