@@ -130,6 +130,7 @@ The following fields are not required when completing a WO but its strongly reco
 |            | resolution short, sweet and            |
 |            | professional. Examples of good         | 
 |            | resolutions are:                       | 
+|            |                                        |
 |            | - Printer motherboard replaced,        | 
 |            | - Dell Dimension 3100 boot sector      |
 |            |   was corrupted. Boot sector           |
@@ -137,6 +138,7 @@ The following fields are not required when completing a WO but its strongly reco
 |            | - Full system check performed.         |
 |            |   Viruses removed. System optimization |
 |            |   performed.                           |
+|            |                                        |
 |            | If the resolution is a standard fix for| 
 |            | which a Solution has been setup, click |
 |            | the Solution button and select the     |
