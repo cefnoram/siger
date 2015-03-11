@@ -16,6 +16,8 @@ I created this solution the address these design flaws.
 
 Now our SOP digital library has an elegant user interface. It is easy to navigate from one SOP to the next. It is well organized, and it looks professional. 
 
-URL: siger.readthedocs.org
+Our new digital library is hosted -- for free -- by read the docs dot ORG. 
+
+And our SOPs can be viewed here 'Read The Docs URL: <.siger.readthedocs.org>'
 
 
