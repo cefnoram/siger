@@ -193,7 +193,7 @@ Required Fields
 |            | email address if possible.             | 
 +------------+----------------------------------------+ 
 
-.. image:: image/siger-tab-04_001.jpg
+.. figure:: image/siger-tab-04_001.jpg
    :height: 500px
    :width: 850px    
    :scale: 100 %
