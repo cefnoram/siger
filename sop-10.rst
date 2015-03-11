@@ -24,7 +24,7 @@ T001-Work Order Workflow in Track-It!
 | T001-Work  | 24/09/2014 | Bobby     | v 1.0      |
 | Order      |            | Bennett   |            |
 | Workflow in|            |           |            |
-| TrackIT!   |            |           |            |  
+| Track-It   |            |           |            |  
 +------------+------------+-----------+------------+
 
 .. versionadded::  v 1.0
@@ -32,7 +32,7 @@ T001-Work Order Workflow in Track-It!
 *************
 Introduction
 *************
-Steps and guidelines for the proper workflow of work orders using BMC TrackIT!. This SOP was written based on Track-It v11.3 but will likely remain unchanged despite newer versions of Track-It.
+Steps and guidelines for the proper workflow of work orders using BMC Track-It. This SOP was written based on Track-It v11.3 but will likely remain unchanged despite newer versions of Track-It.
 
 
 ******************
@@ -45,7 +45,7 @@ This section give a brief overview of the initiative. Improve end-user satisfact
 
 Asset Management
 ================
-Reduce costs and wasteful spending on IT assets you thought were lost or didn’t realize you owned. Automatic asset discovery and auditing gather and record asset information for everything on your network, giving you the ability to take control of your IT environment and make better decisions with complete hardware, software and configuration data about all of your assets. The Inventory module includes popular features such as Asset Discovery, Auditing, Audit on Demand, Unassigned
+Reduce costs and wasteful spending on IT assets you thought were lost or did not realize you owned. Automatic asset discovery and auditing gather and record asset information for everything on your network, giving you the ability to take control of your IT environment and make better decisions with complete hardware, software and configuration data about all of your assets. The Inventory module includes popular features such as Asset Discovery, Auditing, Audit on Demand, Unassigned
 Equipment Inventory and Asset Retirement.
 
 Self Service Portal
@@ -54,7 +54,7 @@ Reduce costs by allowing end-users to log tickets and get status on existing tic
 
 Software License Management
 ===========================
-Never waste money on software licenses that you already owned or worry about fines or penalties related to a software audit. Along with the Track-It! Asset Management module, Software License Management helps you keep track of and report on the number (and type) of software licenses owned and utilized within your organization. Gain control over your software licensing costs and get access to instant and accurate license information.
+Never waste money on software licenses that you already owned or worry about fines or penalties related to a software audit. Along with the Track-It Asset Management module, Software License Management helps you keep track of and report on the number (and type) of software licenses owned and utilized within your organization. Gain control over your software licensing costs and get access to instant and accurate license information.
 
 Mobile Help Desk
 ================
@@ -66,7 +66,7 @@ Save time and money by utilizing lessons learned from previous help desk tickets
 
 Scheduled & Emailed Reports
 ===========================
-Save time and money by optimizing your Help Desk and Asset Management operations by regularly monitoring key metrics. Schedule and e-mail reports automatically to keep you and your management up to date on the latest trends in your business. Based on the industry leading Crystal Reports reporting tool, you get the sophistication and flexibility you need to keep track of key performance and capacity data.
+Save time and money by optimizing your Help Desk and Asset Management operations by regularly monitoring key metrics. Schedule and email reports automatically to keep you and your management up to date on the latest trends in your business. Based on the industry leading Crystal Reports reporting tool, you get the sophistication and flexibility you need to keep track of key performance and capacity data.
 
 Dashboards & Analytics
 ======================
@@ -74,7 +74,7 @@ Reports and dashboards help you save time and money by giving you an instant and
 
 Track-It Manuals and Training 
 =============================
-Manuals are located at SigerUniversity on the SigerTronic Systems Intranet: `Siger Team Site <https://sigertronicsystems.sharepoint.com/SigerUniversity>`_ Training documents are stored by Track-It version.
+Manuals are located at SigerUniversity on the SigerTronic Systems Team Site: `Siger Team Site <https://sigertronicsystems.sharepoint.com/SigerUniversity>`_ Training documents are stored by Track-It version.
 
 *********
 Workflow
@@ -115,7 +115,7 @@ To add a note to a WO, select Technician Note from the Note Type drop down and t
 
 * Actions taken and the results.
 
-* Any communication with the customer. When email a customer, it’s best to email directly from the WO. To facility the email thread, be sure to include your email address as a CC.
+* Any communication with the customer. When email a customer, it is best to email directly from the WO. To facility the email thread, be sure to include your email address as a CC.
 
 * Any internal communication. **Be sure to check the Private box so that this information is not made available to the customer**.
 
@@ -194,6 +194,6 @@ Priorities
    Figure: This table provides details of your priority options. Left mouse click for larger image. 
 
 
-For all priorities, the ECD is recalculated if the WO's time is paused, changing the status to Waiting Parts or Waiting Materials.
+For all priorities, the ECD is recalculated if the WOs time is paused, changing the status to Waiting Parts or Waiting Materials.
 
 
