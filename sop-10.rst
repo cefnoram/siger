@@ -109,7 +109,8 @@ Whenever a work order is created, the following pieces of information must be en
 
 .. note::
 
-   The above tables are images, which were created in a alternative program, and included here. This is a work around because of the  limitations (short comings) of the embedded tables native to this program (see table in section 1.3.4 for example). The above tables can be enlarged by left mouse clicking on the image. Enlarging the table allows for easy viewing and easy reading. The other tables, which are embedded in code, require scrolling to read all the text in a row that contain large blocks of text. I do not want to require users to scroll from left to right.       
+   The above tables are images, which were created in a alternative program, and included here. This is a work around because of the  limitations (short comings) of the embedded tables native to this program. The above tables can be enlarged by left mouse clicking on the image. Further, enlarging the table allows for easy viewing, and easy reading. 
+      The other tables (see table in section 1.3.4 for example), which are embedded in code, require scrolling to read all the text in a row that contain large blocks of text. I do not want to require users to scroll from left to right.       
 
 Updating a Work Order
 ======================
