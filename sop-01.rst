@@ -140,6 +140,7 @@ Required Fields
 | Person     | sure to include a phone number and     |
 |            | email address if possible.             | 
 +------------+----------------------------------------+ 
+::
 
 .. figure:: image/siger-tab-04_001.jpg
    :height: 500px
@@ -148,7 +149,8 @@ Required Fields
    :align: center
    :figclass: align-center
 
-   Figure: This table provides details of your priority options. Left mouse click for larger image.
+   Figure 1: This table provides details of your priority options. Left mouse click for larger image.
+
 Definitions
 ###########
 *Track-It!*:

@@ -148,7 +148,6 @@ The following fields are not required when completing a WO but its strongly reco
 | Bill       |                                        |
 +------------+----------------------------------------+
 
-::
 
 Change the status to Job Completed. During this status, a quality control check will be completed by another tech. Click on the Email Technician icon. Enter the email address of the technician who will do the quality control check. When saving the WO, you will see the following messages about stopping the clock.
 
