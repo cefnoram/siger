@@ -137,25 +137,23 @@ For all priorities, the ECD is recalculated if the WO's time is paused, changing
 Required Fields
 ############### 
 
-\begin{tabulary}{R}{\textwidth}
-
 +------------+----------------------------------------+
 | Filed      | Description                            |
 |            |                                        |
 +============+========================================+
 | Summary    | A brief one line summary of the issue  |
-|              or task. Enough information should be  |
-|              provided so that anyone looking at a   |
-|              list of issue will be able to have an  |
-|              idea as. to what the WO is about.      |
-|              Examples of bad summaries are          |
-|              “Printer Issue” or “Computer Problem”  |
-|              or “Check System”. Better summaries    |
-|              would be “HP OfficeJet 8600 not        |
-|              printing” or                           |
-|              “Dell Dimension 3100 booting issues”,  |
-|              or “Perform full system check and      |
-|              provide recommendation”.               | 
+|            | or task. Enough information should be  |
+|            | provided so that anyone looking at a   |
+|            | list of issue will be able to have an  |
+|            | idea as. to what the WO is about.      |
+|            | Examples of bad summaries are          |
+|            | “Printer Issue” or “Computer Problem”  |
+|            | or “Check System”. Better summaries    |
+|            | would be “HP OfficeJet 8600 not        |
+|            | printing” or                           |
+|            | “Dell Dimension 3100 booting issues”,  |
+|            | or “Perform full system check and      |
+|            | provide recommendation”.               | 
 +------------+----------------------------------------+
 | Priority   |                                        | 
 |            | - 1 Urgent,                            | 
@@ -200,6 +198,29 @@ Required Fields
    :width: 850px    
    :scale: 100 %
    :align: center
+
+.. table:: Optional Caption
+    :widths: 3 2 1
+    :column-alignment: left center right
+    :column-wrapping: true true false
+    :column-dividers: none single double single
+
+    =========== =========== ===========
+    Width 50%   Width 33%   Width 16%
+    =========== =========== ===========
+    Line 1      This text   This text
+                should wrap will always
+                onto        be one line.
+                multiple
+                lines.
+    Line 2      Centered.   Right-Aligned.
+    Line 3      Centered    Right-Aligned
+                Again.      Again.
+    =========== =========== ===========
+
+
+
+
 
 Definitions
 ###########
