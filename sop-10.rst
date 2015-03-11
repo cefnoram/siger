@@ -198,7 +198,8 @@ Required Fields
    :width: 850px    
    :scale: 100 %
    :align: center
-
+   
+   Left mouse click image for larger view. 
 
 Definitions
 ###########
