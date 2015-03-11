@@ -88,7 +88,24 @@ New Work Order
 ==============
 Whenever a work order is created, the following pieces of information must be entered. These are considered “required fields” and have an asterisk (*) next to the field name.
 
-Table goes here 
+.. figure:: image/siger-tab-06_001.jpg
+   :height: 500px
+   :width: 850px    
+   :scale: 100 %
+   :align: center
+   :figclass: align-center
+
+   Table: The following fields are not required but it’s highly recommended that they be completed when a WO is created. Left mouse click for larger image. 
+
+
+.. figure:: image/siger-tab-07_001.jpg
+   :height: 500px
+   :width: 850px    
+   :scale: 100 %
+   :align: center
+   :figclass: align-center
+
+   Table: The following fields are not required but it’s highly recommended that they be completed when a WO is created. Left mouse click for larger image. 
 
 Updating a Work Order
 ======================
