@@ -95,7 +95,7 @@ Whenever a work order is created, the following pieces of information must be en
    :align: center
    :figclass: align-center
 
-   Table: The following fields are a requirement for all work orders. Left mouse click the above image for larger view. 
+   Table: The above fields are a requirement for all work orders. Left mouse click the above image for larger view. 
 
 
 .. figure:: image/siger-tab-07_001.jpg
@@ -105,7 +105,7 @@ Whenever a work order is created, the following pieces of information must be en
    :align: center
    :figclass: align-center
 
-   Table: The above fields are not required but it is highly recommended that they be completed when a work order is created. Left mouse click the above image for larger view. 
+   Table: The above fields are not required, but it is highly recommended, that they be completed when each work order is created. Left mouse click the above image for larger view. 
 
 Updating a Work Order
 ======================
