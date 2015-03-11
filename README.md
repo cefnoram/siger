@@ -18,6 +18,5 @@ Now our SOP digital library has an elegant user interface. It is easy to navigat
 
 Our new digital library is hosted -- for free -- by read the docs dot ORG. 
 
-And our SOPs can be viewed here `Read The Docs URL: siger.readthedocs.org`_
-
+And our SOPs can be viewed here `Read The Docs URL: siger.readthedocs.org`
 
