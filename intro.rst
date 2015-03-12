@@ -25,7 +25,7 @@ Project Documentation
 
 * This is a document outlining the full scope of this project: :download:`this is a PDF document <_downloads/sop-plan-09.pdf>`.
 
-* Our presentation provides some important facts about our project: :download:`this is a PDF document <_downloads/siger-sop-final.pdf>`.
+* Our presentation provides some important facts: :download:`this is a PDF document <_downloads/siger-sop-final.pdf>`.
 
 .. note:: 
 
