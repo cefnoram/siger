@@ -33,4 +33,8 @@ Project Documentation
  
 .. rubric:: Footnotes
 
-.. [#footnote1] There are other definitions but this is the definition of an SOP that I prefer. 
+.. [#footnote1] There are other definitions of an SOP, but this is the definition I prefer.
+
+.. image:: image/CC.jpg
+
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
