@@ -31,6 +31,9 @@ G016--Collect Payment on Open Invoice
 
 .. note:: The above is an example of some version control that can be added to each SOP. 
 
+.. todo::
+
+   This is a test
 
 
 Introduction
@@ -56,10 +59,6 @@ Any team member who is responsible for invoicing customers could be required to 
 .. sidebar:: Team Members 
    
    Although you may not currently seek payment on open invoices, you may be asked to assist in this process, and this SOP will help you understand the steps need to complete this task.
-
-.. todo::
-
-   Test this 
 
 
 Definitions
