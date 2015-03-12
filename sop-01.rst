@@ -140,7 +140,6 @@ Required Fields
 | Person     | sure to include a phone number and     |
 |            | email address if possible.             | 
 +------------+----------------------------------------+ 
-::
 
 .. figure:: image/siger-tab-04_001.jpg
    :height: 500px
