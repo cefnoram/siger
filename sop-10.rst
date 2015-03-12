@@ -206,7 +206,7 @@ Priorities
    Figure: This table provides details of your priority options. Left mouse click for larger image. 
 
 
-For all priorities, the ECD is recalculated if the WOs time is paused, changing the status to Waiting Parts or Waiting Materials.
+* For all priorities, the ECD is recalculated if the WOs time is paused, changing the status to Waiting Parts or Waiting Materials.
 
 .. image:: image/CC.jpg
 
