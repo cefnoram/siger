@@ -82,7 +82,5 @@ Addational Information
     * An example of “documenting your findings”-- you could create a Microsoft Excel spread sheet and articulate the details (i.e., customer name, invoice number, etc. ) of each customer you call. Our primary concern is, when we can reasonably expect payment from the customer? And the payment status must be included in your documentation.   
 
 
-`License Information: http://creativecommons.org/licenses/by-nc-sa/4.0/`_ 
-
 .. image:: image/CC.jpg
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
