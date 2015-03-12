@@ -28,13 +28,10 @@ G016--Collect Payment on Open Invoice
 .. versionadded:: 11/2/2015
 
 .. versionchanged:: 1.0.1 Fundamental changes made to the structure of the document. 
+ 
+.. tip:: 
 
-.. note:: The above is an example of some version control that can be added to each SOP. 
-
-.. todo::
-
-   This is a test
-
+   An SOP is *not* intended to answer all question a team member may have about a business process. In contrast, SOPs are intended to be a supplemental training tool, which enhances other employee training.   
 
 Introduction
 ############
@@ -47,10 +44,6 @@ Procsses
 #. Check the **aging column**. If the aging column has digit present you will need to call the customer and request they send payment as soon as possible.
 
 #. Document your findings from each phone call inquiry with our customers and submit your finding to management.   
-
-.. tip:: SOPs and Their Functions
-
-   An SOP is *not* intended to answer all question a team member may have about the business process. In contrast, SOPs are intended to be a supplemental training tool which enhances other training.    
 
 Responsible Personnel
 #####################
