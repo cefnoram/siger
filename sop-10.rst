@@ -127,13 +127,13 @@ To add a note to a WO, select Technician Note from the Note Type drop down and t
 
 * Any internal communication. 
   
-.. danger::
-  
-  Be sure to check the *Private* box so that this information is not made available to the customer.
-
 * Any relevant photos or documents
 
 * Any parts ordered
+
+.. danger::
+  
+  Be sure to check the *Private* box so that this information is not made available to the customer.
 
 When entering notes, be sure to use proper grammar, language, punctuation and spelling as these notes are viewable by the customers via the web interface. They also can appear when a detailed WO is printed. To include others on all emails sent from the WO, fill in their email address in the CC or BCC fields on the Billing and Additional Fields tab.
 
