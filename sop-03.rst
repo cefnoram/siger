@@ -48,7 +48,7 @@ Processes
 3. Next, the **Create Item Receipts** window will open;
 
 .. image:: image/rec-02.jpg
-   :height: 400px
+   eheight: 400px
    :width: 550px
    :scale: 100 %
    :align: center
@@ -86,4 +86,7 @@ Definitions
 .. tip::
    The shipping manifest is synonyms with purchase order work sheet.
 
+.. image:: image/CC.jpg
+
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
 

@@ -67,4 +67,6 @@ Addational Information
 * Invoices with a work order number associated must have copy of the physical work order attached when filing the invoice. Additionally, some corporate customers will provide Purchase Orders when paying their bill. You will need to file the Purchase Order (or work order) with the invoice. Note: When service or repair of customer equipment is complete, you should print the invoice and place it on the physical machine. This is in preparation for the customer arrival to pay for their service and expedites the checkout process.  
 * When printing invoices, any invoice four lines or less will print on half page logo paper, and five lines or more need to be printed on a full page log paper. To change this setting, in the main Quickbooks invoice window, click in the “Template” drop down box=>chose “Half page” or “Logo Invoice”, logo invoice is the full page option. 
 
+.. image:: image/CC.jpg
 
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.

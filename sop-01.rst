@@ -177,3 +177,8 @@ Addational Information
    Additionally, you can obtain SOP **G002-Create an Invoice** for detailed information on how to create a Quickbooks invoice.
 
 
+.. image:: image/CC.jpg
+
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
+
+

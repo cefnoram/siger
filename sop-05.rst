@@ -84,3 +84,6 @@ Addational Information
 
 * There are two ways to create an invoice from a QuickBooks sales order, first by starting from an existing sales order, and second by starting with a new (blank) invoice. If you want to create an invoice for more than one sales order, you have to start with a new invoice.
 
+.. image:: image/CC.jpg
+
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
