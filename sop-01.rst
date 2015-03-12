@@ -141,6 +141,9 @@ Required Fields
 |            | email address if possible.             | 
 +------------+----------------------------------------+ 
 
+.. todo::
+   I should consider converting the above table to the table I have bellow. 
+
 .. figure:: image/siger-tab-04_001.jpg
    :height: 500px
    :width: 850px    
