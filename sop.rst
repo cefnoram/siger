@@ -48,7 +48,7 @@ Procsses
 
 #. Document your findings from each phone call inquiry with our customers and submit your finding to management.   
 
-.. topic:: SOPs and Their Functions
+.. tip:: SOPs and Their Functions
 
    An SOP is *not* intended to answer all question a team member may have about the business process. In contrast, SOPs are intended to be a supplemental training tool which enhances other training.    
 
@@ -80,9 +80,6 @@ Addational Information
 * During every work week you will need to call customers who have a digit in the aging column of the open invoice report. After each phone call you are required to document your findings and submit your document to management. 
 
     * An example of “documenting your findings”-- you could create a Microsoft Excel spread sheet and articulate the details (i.e., customer name, invoice number, etc. ) of each customer you call. Our primary concern is, when we can reasonably expect payment from the customer? And the payment status must be included in your documentation.   
-
-.. topic:: License Agreement  
-   Say some thing 
 
 .. image:: image/CC.jpg
 
