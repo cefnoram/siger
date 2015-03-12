@@ -43,11 +43,11 @@ extensions = [
 templates_path = ['_templates']
 
 #todo
-#[extensions]
+[extensions]
 todo_include_todos=True
 
 #my css
-#def setup(app):
+def setup(app):
 app.add_stylesheet('my_style.css')
 
 # The suffix of source filenames.
