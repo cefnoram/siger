@@ -49,3 +49,6 @@ Responsible Personnel
 ---------------------
 Anyone who is working at the front desk should strictly adhere to the procedures out-lined in this SOP.
 
+.. image:: image/CC.jpg
+
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.

@@ -204,4 +204,6 @@ Priorities
 
 For all priorities, the ECD is recalculated if the WOs time is paused, changing the status to Waiting Parts or Waiting Materials.
 
+.. image:: image/CC.jpg
 
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.

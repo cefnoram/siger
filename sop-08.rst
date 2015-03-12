@@ -72,3 +72,6 @@ Additional Information
 .. note::
    An estimate can also be prepared with Microsoft Excel; however, that information is out of the scope of this SOP.
 
+.. image:: image/CC.jpg
+
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.

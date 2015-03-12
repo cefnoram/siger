@@ -67,3 +67,6 @@ Additional Information
 
 * Otherwise noted this SOP is expecting employees, who are not familiar with creating a Quickbooks invoice, to refer to SOP titled G002 create an invoice for detailed instruction.
 
+.. image:: image/CC.jpg
+
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
