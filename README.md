@@ -20,3 +20,6 @@ Our new digital library is hosted -- for free -- by read the docs dot ORG.
 
 And our SOPs can be viewed here `Read The Docs URL: siger.readthedocs.org`
 
+So, perhaps at this point you are asking what is a standard operating procedure (SOP)? 
+
+I define them as — SOPs are intended to function a set of written detailed instructions, or step – by – step instructions, on how to complete a single business process.
