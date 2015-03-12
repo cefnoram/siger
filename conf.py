@@ -47,8 +47,8 @@ templates_path = ['_templates']
 todo_include_todos=True
 
 #my css
-def setup(app):
-    app.add_stylesheet('my_style.css')
+#def setup(app):
+#    app.add_stylesheet('my_style.css')
 
 # The suffix of source filenames.
 source_suffix = '.rst'
