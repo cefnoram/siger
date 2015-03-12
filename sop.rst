@@ -80,9 +80,11 @@ Addational Information
 * During every work week you will need to call customers who have a digit in the aging column of the open invoice report. After each phone call you are required to document your findings and submit your document to management. 
 
     * An example of “documenting your findings”-- you could create a Microsoft Excel spread sheet and articulate the details (i.e., customer name, invoice number, etc. ) of each customer you call. Our primary concern is, when we can reasonably expect payment from the customer? And the payment status must be included in your documentation.   
-.. topic:: 
-   
-   `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
+
+.. topic:: License Agreement  
 
 .. image:: image/CC.jpg
+
+`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`_.
+
 
