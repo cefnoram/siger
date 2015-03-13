@@ -16,7 +16,6 @@ T001-Work Order Workflow in Track-It!
 .. contents:: 
    :depth: 2
 
-
 +------------+------------+-----------+------------+
 | Document   | Release    | Author    | Version    |
 | ID         | Date       |           |            |
@@ -96,7 +95,6 @@ Whenever a work order is created, the following pieces of information must be en
    :figclass: align-center
 
    Table: The above fields are a requirement for all work orders. Left mouse click the above image for larger view. 
-
 
 .. figure:: image/siger-tab-07_001.jpg
    :height: 500px
@@ -204,7 +202,6 @@ Priorities
    :figclass: align-center
 
    Figure: This table provides details of your priority options. Left mouse click for larger image. 
-
 
 * For all priorities, the ECD is recalculated if the WOs time is paused, changing the status to Waiting Parts or Waiting Materials.
 

@@ -53,7 +53,6 @@ Processes
    :scale: 100 %
    :align: center
 |
-|
 .. note::
    
    Above is a detailed image of the Quickbooks Item Receipt window. Highlighted are the primary fields that need to be populated. Also, the image contains an example inventory item being received.
