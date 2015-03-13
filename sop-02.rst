@@ -87,8 +87,6 @@ Definitions
 
 Addational Information
 ######################
-.. warning:: 
-    This is an important section and it should not be over looked.  
 
 * The amount of cash in the deposit stack must be equal or greater than the total from the cash column of the COB sheet. So, if the total cash amount from the cash column is $300 you should have $300 cash to provide for the deposit. However, if you have less money than the total from the cash column, you need to perform an investigation to determine why you are short. To begin your investigation you can check your collection of two by three inch papers and/or your receipt book to discover why there is a shortage. If you have a greater quantity of money in your deposit cash the amount that you are over is moved to petty cash.
 

@@ -65,7 +65,9 @@ Additional Information
 ----------------------
 * If hardware was replaced during the service the technician articulates this fact in the Resolution tab of the TrackIt work order.
 
-* Otherwise noted this SOP is expecting employees, who are not familiar with creating a Quickbooks invoice, to refer to SOP titled G002 create an invoice for detailed instruction.
+.. seealso::
+   
+   Otherwise noted, this SOP is expecting employees, who are not familiar with creating a Quickbooks invoice, to refer to SOP titled G002 create an invoice for detailed instruction.
 
 .. image:: image/CC.jpg
 
