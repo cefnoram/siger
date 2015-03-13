@@ -64,9 +64,6 @@ Definitions
 
 Addational Information
 ######################
-.. warning::
-
-   This is an important section and it should not be over looked. 
 
 * In some situations, we may provide a customer thirty day terms to pay an invoice; however, if thirty days has passed and we have not received payment we will call our customers and request payment. If requested you can provide the customer a copy of the invoice to facilitate payment.   
 
