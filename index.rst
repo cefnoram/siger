@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SigerTronic SOP Documentation!
-==========================================
+Welcome to SigerTronic Systems SOP Documentation!
+=================================================
 Table of Contents
 *****************
 Introduction
--------------
+------------
 
 .. toctree::
     :titlesonly:
@@ -16,7 +16,7 @@ Introduction
     intro.rst
 
 General SOPs
--------------
+------------
 
 .. toctree::
     :maxdepth: 2
@@ -36,7 +36,7 @@ General SOPs
 
 
 Managment SOPs
----------------
+--------------
 .. toctree::
     :maxdepth: 2
     :numbered:
@@ -45,7 +45,7 @@ Managment SOPs
     sop-09.rst
     
 Technical SOPs 
--------------
+--------------
 .. toctree::
     :maxdepth: 2
     :numbered:

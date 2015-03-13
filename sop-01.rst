@@ -33,7 +33,7 @@ Introduction
 Customers that come into SigerTronic Systems requesting service must have a work order created for their required level of service. A work order is a start to finish record of the work to be performed.  Work orders are created for repairs on physical machines, and all customer primes work. A work order (WO) goes through various stages (e.g., statuses). During some statuses, key pieces of information must be entered in order to ensure the work order flows smoothly from beginning to end, which includes making sure that all necessary and beneficial information is captured. 
 
 Processes
-##########
+#########
 
 #. Log into Track-It! HelpDesk with your user name;
 

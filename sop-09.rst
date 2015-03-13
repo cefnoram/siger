@@ -3,9 +3,9 @@
    :width: 300px     
    :scale: 85 %
    :align: center
-#########################################
+########################################
 M001-Approval Process for New Initiative 
-#########################################
+########################################
 .. topic:: Overview
 
    :Date: |today|
@@ -41,9 +41,9 @@ Overview
 ********
 This section give a brief overview of the initiative.
 
-***********
+**********
 Objectives
-***********
+**********
 This section lists the goals/objectives, tangible or intangible of the initiative.
 
 *****
@@ -123,9 +123,9 @@ Discussion
 ==========
 During the discussion date, the Project Sponsor will verbally present the initiative to all decision makers. Project Champions or other stakeholders may be included as was decided in section 1.11.1 above. Questions and requests for clarifications (RFCs) may be submitted. Follow up discussions may be scheduled as deemed necessary to address questions and RFC, i.e. if not resolved in writing.
 
-*********
+********
 Decision
-*********
+********
 
 
 Yah

@@ -1,6 +1,6 @@
-###########################
+##########################
 Brief Project Introduction 
-###########################
+##########################
 
 .. topic:: Overview
 
@@ -19,9 +19,9 @@ Each SOP is intended to function a set of written detailed instructions, or step
 on how to complete a single business process. [#footnote1]_
 
 
-**********************
+*********************
 Project Documentation
-**********************
+*********************
 
 * This is a document outlining the full scope of this project: :download:`this is a PDF document <_downloads/sop-plan-09.pdf>`.
 

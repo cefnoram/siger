@@ -26,7 +26,7 @@ G004-Front Desk Area Maintenance
 +------------------------+------------+----------+----------+
 
 Introduction
--------------
+------------
 You must insure that the front desk remains clean and organized throughout the work day. The front desk arear should look clean and remain uncluttered at all times. This area is a focal point for customers who physically visit SigerTronic Systems.
 
 Processes

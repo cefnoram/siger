@@ -4,9 +4,9 @@
    :scale: 85 %
    :align: center 
 
-**************************************
+*************************************
 G016--Collect Payment on Open Invoice
-**************************************
+*************************************
 .. topic:: Overview
  
    :Date: |today|
@@ -38,7 +38,7 @@ Introduction
 This SOP will provide details needed for any team member to query our Quickbooks database and use an open invoice report to inquire with each customer who has an unpaid invoice. In some situations we will provide customers thirty day terms to satisfy their invoice; however, if thirty days passes, and we have not yet received payment, we will begin calling customers and requesting payment in full. 
 
 Procsses
-#########
+########
 #. From the **QuickBooks Reports** menu, select **Customers & Receivables**, and then **Open Invoices**, Run open invoice report. The report is sorted alphabetically by customer name; 
 
 #. Check the **aging column**. If the aging column has digit present you will need to call the customer and request they send payment as soon as possible.

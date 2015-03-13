@@ -27,7 +27,7 @@ G005-Prepare an Estimate
 +------------------------+------------+----------+----------+
 
 Introduction
--------------
+------------
 A QuickBooks estimate provides potential customers a quote for product and/or services we have to offer. An estimate keeps a record of the price, items, and services.
 
 Processes

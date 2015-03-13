@@ -4,9 +4,9 @@
    :scale: 85 %
    :align: center
 
-*************************************
+****************************
 G010-Receive Inventory Items
-*************************************
+****************************
 
 .. topic:: Overview
 
@@ -40,7 +40,7 @@ Scope
 This task requires a team member to understand our daily operational process of documenting each sale as well as keeping track of petty cash. This SOP with provide the instruction need so any team member can follow the step by step instructions and complete the task.
 
 Processes
-##########
+#########
 1. Log into Quickbooks;
 
 2. Go to **Vendors => Receive Items**;

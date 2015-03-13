@@ -4,9 +4,9 @@
    :scale: 85 %
    :align: center
 
-*************************************
+************************************
 G013--Prepare Sales Cash for Deposit
-*************************************
+************************************
 
 .. topic:: Overview
 
@@ -39,7 +39,7 @@ Scope
 This task requires a team member to understand our daily operational process of documenting each sale as well as keeping track of petty cash. This SOP with provide the instruction need so any team member can follow the step by step instructions and complete the task.
 
 Processes
-##########
+#########
 #. As each sales transaction is complete you use the specific details to record that transaction;
 #. Verify that you have sufficient numbers of two inch by three inch pieces of paper. Use one piece of paper per sales transaction and make a note each sale;
     a. The data you will record on the paper is as follows; a.) cash amount; b.) the days date; c.) corresponding invoice number and if applicable d.) Petty Cash (i.e., P.C.), plus total amount taken from petty cash: example, P.C. $30. 

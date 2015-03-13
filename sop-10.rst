@@ -28,18 +28,18 @@ T001-Work Order Workflow in Track-It!
 
 .. versionadded::  v 1.0
 
-*************
+************
 Introduction
-*************
+************
 Steps and guidelines for the proper workflow of work orders using BMC Track-It. This SOP was written based on Track-It v11.3 but will likely remain unchanged despite newer versions of Track-It.
 
 
-******************
+*****************
 Track-It Overview
-******************
+*****************
 
 IT Help Desk
-=============
+============
 This section give a brief overview of the initiative. Improve end-user satisfaction and resolution rates while reducing costs by allowing your help desk technicians to track their work more efficiently. Justify the need for additional staff through tracking of all tasks. Department Security can segment data so multiple departments can utilize the Track-It! Help Desk to manage their tasks. Facilities, Human Resources and IT Help Desk can all benefit from task management using Track-It! The Help Desk includes LDAP/Active Directory integration, Work Order Templates, Service Level Agreements (SLAs), Work Order Timer, Stop the Clock, Scheduled Work Orders, Scheduled Reports, Parent/Child tickets, Automatic Email to Work Order conversion, Skill Routing, Event Policies, Automatic Prioritization, Automatic Escalation, Email Conversation Management and Notifications.
 
 Asset Management
@@ -75,9 +75,9 @@ Track-It Manuals and Training
 =============================
 Manuals are located at SigerUniversity on the SigerTronic Systems Team Site: `Siger Team Site <https://sigertronicsystems.sharepoint.com/SigerUniversity>`_ Training documents are stored by Track-It version.
 
-*********
+********
 Workflow
-*********
+********
 
 Overview
 ========
@@ -114,7 +114,7 @@ Whenever a work order is created, the following pieces of information must be en
    The above tables can be enlarged by left mouse clicking on the image. Enlarging each table allows for easy viewing and easy reading. 
    
 Updating a Work Order
-======================
+=====================
 As soon as a technician begins working on a WO, the status should be changed to In Progress.
 
 To add a note to a WO, select Technician Note from the Note Type drop down and then select the appropriate Activity Code. All notes relating to the WO should be entered. Example of notes include:
@@ -190,9 +190,9 @@ Invoicing
 =========
 After invoicing, change the status of the WO to **Closed**.
 
-***********
+**********
 Priorities 
-***********
+**********
 
 .. figure:: image/siger-tab-04_001.jpg
    :height: 500px

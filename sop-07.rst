@@ -3,9 +3,9 @@
    :width: 300px     
    :scale: 85 %
    :align: center
-================================
+=============================
 G012-Completed to be Invoiced  
-================================
+=============================
 .. topic:: Overview
 
    :Date: |today|
@@ -27,7 +27,7 @@ G012-Completed to be Invoiced
 +------------------------+------------+----------+----------+
 
 Introduction
--------------
+------------
 A TrackIt work order goes through many status changes from initial creation until full completion. Once the work order status has been changed to Completed to be invoiced there are additional steps that need to be performed. We need to notify the customer that their machine is finished so we can collect payment. You are required to create a Quickbooks invoice which will detail the level of service provided and the amount of money due.
 
 Processes

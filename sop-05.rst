@@ -28,7 +28,7 @@ G002-Create an Invoice
 .. versionadded:: 2.0, Content added 30/1/2015
 
 Introduction
--------------
+------------
 The invoices from the previous business day must be filled on the next available business day. This is an important task and must be done accurately. We archive all our sales invoices to assure that we are being transparent in the case of an audit by the government of Belize.  At the end of each month, the entire month stack of invoices are filled and stored.  
 
 
